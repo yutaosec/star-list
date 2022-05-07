@@ -157,7 +157,7 @@
 |[react-native-fast-image](https://github.com/DylanVann/react-native-fast-image)|6788|🚩 FastImage, performant React Native image component.|
 |[onedev](https://github.com/theonedev/onedev)|7479|Self-hosted Git Server with CI/CD and Kanban|
 |[MazeBattles.com](https://github.com/HenryDavidZhu/MazeBattles.com)|137|Website built with Node.js and Socket.io where users race against each other to solve generated mazes. Features a single player and one-on-one mode. Uses Prim's MST Algorithm to generate the mazes.|
-|[deno](https://github.com/denoland/deno)|82173|A modern runtime for JavaScript and TypeScript.|
+|[deno](https://github.com/denoland/deno)|82174|A modern runtime for JavaScript and TypeScript.|
 |[hooks](https://github.com/alibaba/hooks)|8977|A high-quality & reliable React Hooks library.|
 |[gitignore](https://github.com/github/gitignore)|132759|A collection of useful .gitignore templates|
 |[GayHub](https://github.com/jawil/GayHub)|1014|An awesome chrome extension for github :octocat:|
@@ -197,7 +197,7 @@
 |[CS-Notes](https://github.com/CyC2018/CS-Notes)|150321|:books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计|
 |[xiaozhi](https://github.com/qq449245884/xiaozhi)|4548|null|
 |[codeblock-beautifier](https://github.com/haixiangyan/codeblock-beautifier)|112|A chrome extension for highlighting codes of Medium Articles 🌟|
-|[axios](https://github.com/axios/axios)|93179|Promise based HTTP client for the browser and node.js|
+|[axios](https://github.com/axios/axios)|93180|Promise based HTTP client for the browser and node.js|
 |[nodebestpractices](https://github.com/goldbergyoni/nodebestpractices)|77449|:white_check_mark:  The Node.js best practices list (March 2022)|
 |[react-dat-gui](https://github.com/claus/react-dat-gui)|282|React dat.GUI|
 |[delighters](https://github.com/Q42/delighters)|742|Add CSS animations to delight users as they scroll down.|
@@ -220,7 +220,7 @@
 |[go-common](https://github.com/openbilibili/go-common)|9169|哔哩哔哩 bilibili 网站后台工程 源码 |
 |[what-happens-when-zh_CN](https://github.com/skyline75489/what-happens-when-zh_CN)|6896|What-happens-when 的中文翻译，原仓库 https://github.com/alex/what-happens-when|
 |[what-happens-when](https://github.com/alex/what-happens-when)|33807|An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"|
-|[dsa.js-data-structures-algorithms-javascript](https://github.com/amejiarosario/dsa.js-data-structures-algorithms-javascript)|6559|🥞Data Structures and Algorithms explained and implemented in JavaScript + eBook|
+|[dsa.js-data-structures-algorithms-javascript...](https://github.com/amejiarosario/dsa.js-data-structures-algorithms-javascript)|6559|🥞Data Structures and Algorithms explained and implemented in JavaScript + eBook|
 |[git-tips](https://github.com/521xueweihan/git-tips)|13779|:trollface:Git的奇技淫巧|
 |[website](https://github.com/WebAssembly-cn/website)|88|WebAssembly中文网 http://webassembly.org.cn 翻译指南 https://git.io/vQTCm|
 |[SJTU-Courses](https://github.com/kxxwz/SJTU-Courses)|7144|上海交通大学课程资料分享|
@@ -235,13 +235,13 @@
 |[document-style-guide](https://github.com/ruanyf/document-style-guide)|9594|中文技术文档的写作规范|
 |[react-use](https://github.com/streamich/react-use)|29265|React Hooks — 👍|
 |[dictionary](https://github.com/web-standards-ru/dictionary)|1764|Словари по фронтенду|
-|[awesome](https://github.com/sindresorhus/awesome)|199974|😎 Awesome lists about all kinds of interesting topics|
+|[awesome](https://github.com/sindresorhus/awesome)|199975|😎 Awesome lists about all kinds of interesting topics|
 |[leetcode](https://github.com/azl397985856/leetcode)|47806| LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)|
 |[spin.js](https://github.com/fgnass/spin.js)|9337|A spinning activity indicator|
 |[reactjs-interview-questions](https://github.com/semlinker/reactjs-interview-questions)|1959|List of top 304 ReactJS Interview Questions & Answers|
 |[reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions)|20483|List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!|
 |[996.ICU](https://github.com/996icu/996.ICU)|262121|Repo for counting stars and contributing. Press F to pay respect to glorious developers.|
-|[slider](https://github.com/react-component/slider)|2762|React Slider|
+|[slider](https://github.com/react-component/slider)|2763|React Slider|
 |[instagram.css](https://github.com/picturepan2/instagram.css)|3947|Instagram.css - Complete set of Instagram filters in pure CSS|
 |[instascan](https://github.com/schmich/instascan)|2725|HTML5 QR code scanner using your webcam|
 |[zh-hans.reactjs.org](https://github.com/reactjs/zh-hans.reactjs.org)|552|React documentation website in Simplified Chinese|
@@ -273,7 +273,7 @@
 |[ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG)|30333|Next Generation of ShadowsocksX|
 |[shadowsocks_install](https://github.com/teddysun/shadowsocks_install)|7505|Auto Install Shadowsocks Server for CentOS/Debian/Ubuntu|
 |[youtube-dl](https://github.com/ytdl-org/youtube-dl)|109664|Command-line program to download videos from YouTube.com and other video sites|
-|[plugins](https://github.com/flutter/plugins)|15604|Plugins for Flutter maintained by the Flutter team|
+|[plugins](https://github.com/flutter/plugins)|15605|Plugins for Flutter maintained by the Flutter team|
 |[typeit](https://github.com/alexmacarthur/typeit)|2659|The most versatile JavaScript typewriter effect library on the planet.|
 |[pinyin](https://github.com/hotoo/pinyin)|6388|:cn: 汉字拼音 ➜ hàn zì pīn yīn|
 |[refined-github](https://github.com/refined-github/refined-github)|17744|:octocat: Browser extension that simplifies the GitHub interface and adds useful features|
@@ -329,7 +329,7 @@
 |[emotion](https://github.com/emotion-js/emotion)|14870|👩‍🎤 CSS-in-JS library designed for high performance style composition|
 |[lerna](https://github.com/lerna/lerna)|32502|:dragon: A tool for managing JavaScript projects with multiple packages.|
 |[javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)|140384|📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings|
-|[eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee](https://github.com/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee)|8943|eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee|
+|[eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee...](https://github.com/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee)|8943|eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee|
 |[jpush-react-native](https://github.com/jpush/jpush-react-native)|1274|JPush's officially supported React Native plugin (Android & iOS). 极光推送官方支持的 React Native 插件（Android & iOS）。|
 |[react-native-gesture-handler](https://github.com/software-mansion/react-native-gesture-handler)|4788|Declarative API exposing platform native touch and gesture system to React Native.|
 |[animate.css](https://github.com/animate-css/animate.css)|74453|🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.|
@@ -339,7 +339,7 @@
 |[BizCharts](https://github.com/alibaba/BizCharts)|5849|Powerful data visualization library based on G2 and React.|
 |[tui.editor](https://github.com/nhn/tui.editor)|14592|🍞📝 Markdown WYSIWYG Editor. GFM Standard + Chart & UML Extensible.|
 |[MSEdge](https://github.com/MicrosoftEdge/MSEdge)|2643|Microsoft Edge|
-|[TypeScript](https://github.com/microsoft/TypeScript)|80362|TypeScript is a superset of JavaScript that compiles to clean JavaScript output.|
+|[TypeScript](https://github.com/microsoft/TypeScript)|80363|TypeScript is a superset of JavaScript that compiles to clean JavaScript output.|
 |[material-components-web](https://github.com/material-components/material-components-web)|16163|Modular and customizable Material Design UI components for the web|
 |[echarts](https://github.com/apache/echarts)|50898|Apache ECharts is a powerful, interactive charting and data visualization library for browser|
 |[react-native-echarts](https://github.com/somonus/react-native-echarts)|718|Echarts for react-native. The react-naitve chart.|
@@ -389,7 +389,7 @@
 |[taro](https://github.com/NervJS/taro)|30947|开放式跨端跨框架解决方案，支持使用 React/Vue/Nerv 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用。  https://taro.zone/|
 |[Douyin-Bot](https://github.com/wangshub/Douyin-Bot)|7802|😍 Python 抖音机器人，论如何在抖音上找到漂亮小姐姐？ |
 |[meow](https://github.com/sindresorhus/meow)|2946|🐈 CLI app helper|
-|[flutter](https://github.com/flutter/flutter)|139512|Flutter makes it easy and fast to build beautiful apps for mobile and beyond|
+|[flutter](https://github.com/flutter/flutter)|139513|Flutter makes it easy and fast to build beautiful apps for mobile and beyond|
 |[30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code)|95317|Short JavaScript code snippets for all your development needs|
 |[APlayer](https://github.com/DIYgod/APlayer)|6096|:lollipop: Wow, such a beautiful HTML5 music player|
 |[react-native-debugger](https://github.com/jhen0409/react-native-debugger)|9326|The standalone app based on official debugger of React Native, and includes React Inspector / Redux DevTools|
@@ -459,9 +459,9 @@
 |[css-houdini-drafts](https://github.com/w3c/css-houdini-drafts)|1798|Mirror of https://hg.css-houdini.org/drafts|
 |[shadowsocks](https://github.com/shadowsocks/shadowsocks)|33175|null|
 |[You-Dont-Need-Lodash-Underscore](https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore)|14630|List of JavaScript methods which you can use natively + ESLint Plugin|
-|[lodash](https://github.com/lodash/lodash)|53098|A modern JavaScript utility library delivering modularity, performance, & extras.|
+|[lodash](https://github.com/lodash/lodash)|53099|A modern JavaScript utility library delivering modularity, performance, & extras.|
 |[rbenv](https://github.com/rbenv/rbenv)|14131|Manage your app's Ruby environment|
-|[ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)|144721|🙃   A delightful community-driven (with 2,000+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.|
+|[ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)|144722|🙃   A delightful community-driven (with 2,000+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.|
 |[webpacker](https://github.com/rails/webpacker)|5298|Use Webpack to manage app-like JavaScript modules in Rails|
 |[datepicker](https://github.com/fengyuanchen/datepicker)|1173|⚠️ [Deprecated] No longer maintained. A simple jQuery datepicker plugin.|
 |[slim-rails](https://github.com/slim-template/slim-rails)|656|Slim templates generator for Rails|
