@@ -41,7 +41,7 @@
   - ⭐: 35,893
   - 📖: The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。  - 💡: `chinese` `chinese-poetry` `ci` `json` `poetry` `tangshi`
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith)
-  - ⭐: 17,453
+  - ⭐: 17,454
   - 📖: Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.  - 💡: `admin-dashboard` `admin-panels` `app-builder` `automation` `crud` `custom-internal` `developer-tools` `gui` `gui-application` `internal-tools` `java` `javascript` `low-code` `low-code-framework` `react` `self-hosted` `typescript` `webdev` `webdevelopment` `workflows`
 - [vercel/turborepo](https://github.com/vercel/turborepo)
   - ⭐: 7,389
