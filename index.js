@@ -48,10 +48,12 @@ const getDisplay = ({
   stargazers_count,
   topics,
 }) =>
-  `- [${full_name}](${html_url})\n` +
-  `  - \u2B50: ${stargazers_count.toLocaleString()}\n` +
-  `  - \uD83D\uDCD6: ${description}` +
-  `  - \uD83D\uDCA1: ${topics.map((it) => `\`${it}\``).join(" ")}`;
+  [
+    `- [${full_name}](${html_url})`,
+    `  - \u2B50: ${stargazers_count.toLocaleString()}`,
+    `  - \uD83D\uDCD6: ${description}`,
+    `  - \uD83D\uDCA1: ${topics.map((it) => `\`${it}\``).join(" ")}`,
+  ].join("\n") + "\n";
 
 try {
   (async () => {
