@@ -6994,13 +6994,20 @@ const getDisplay = ({
   description,
   stargazers_count,
   topics,
-}) =>
-  [
+}) => {
+  const result = [
     `- [${full_name}](${html_url})`,
     `  - \u2B50: ${stargazers_count.toLocaleString()}`,
     `  - \uD83D\uDCD6: ${description}`,
-    `  - \uD83D\uDCA1: ${topics.map((it) => `\`${it}\``).join(" ")}`,
-  ].join("\n") + "\n";
+  ];
+  if (topics.length) {
+    result.push(
+      `  - \uD83D\uDCA1: ${topics.map((it) => `\`${it}\``).join(" ")}`
+    );
+  }
+
+  return result.join("\n") + "\n";
+};
 
 try {
   (async () => {
