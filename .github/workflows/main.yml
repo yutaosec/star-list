@@ -1,0 +1,20 @@
+on:
+  schedule:
+    - cron: "0 0 * * 0"
+
+jobs:
+  star_list_job:
+    runs-on: ubuntu-latest
+    name: A job to get starred repos and update README
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Hello world action step
+        uses: ./
+        id: star-list
+        with:
+          pat: ${{ secrets.SuperSecret }}
+          user: Cygra
+          email: sjtuwbh@gmail.com
+          repo: star-list
+          file: README.md

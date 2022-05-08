@@ -1,0 +1,26 @@
+name: "Star List"
+description: "Render all my starred repos in README.md"
+inputs:
+  pat:
+    description: "Github Person Access Token"
+    required: true
+    default: ""
+  user:
+    description: "Github User"
+    required: true
+    default: ""
+  email:
+    description: "Github User Email"
+    required: true
+    default: ""
+  repo:
+    description: "Target Repo"
+    required: true
+    default: ""
+  file:
+    description: "Target File"
+    required: true
+    default: ""
+runs:
+  using: "node16"
+  main: "dist/index.js"
