@@ -833,7 +833,7 @@
   - ⭐: 7,505
   - 📖: Auto Install Shadowsocks Server for CentOS/Debian/Ubuntu  - 💡: `shadowsocks` `shadowsocks-libev` `shadowsocks-server` `shadowsocksr` `ssr`
 - [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl)
-  - ⭐: 109,686
+  - ⭐: 109,687
   - 📖: Command-line program to download videos from YouTube.com and other video sites  - 💡: 
 - [flutter/plugins](https://github.com/flutter/plugins)
   - ⭐: 15,609
