@@ -472,7 +472,7 @@
   - 📖: Manage session history with JavaScript
 
 - [sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript)
-  - ⭐: 27,595
+  - ⭐: 27,596
   - 📖: 🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things.
 
 - [MrXujiang/h5-Dooring](https://github.com/MrXujiang/h5-Dooring)
@@ -524,7 +524,7 @@
   - 💡: `context-menu` `menu` `react` `react-component`
 
 - [react-grid-layout/react-grid-layout](https://github.com/react-grid-layout/react-grid-layout)
-  - ⭐: 15,658
+  - ⭐: 15,659
   - 📖: A draggable and resizable grid layout with responsive breakpoints, for React.
   - 💡: `drag-and-drop` `es2015` `grid` `javascript` `react` `resize`
 
@@ -2154,7 +2154,7 @@
   - 📖: Mirror of https://hg.css-houdini.org/drafts
 
 - [shadowsocks/shadowsocks](https://github.com/shadowsocks/shadowsocks)
-  - ⭐: 33,178
+  - ⭐: 33,177
   - 📖: null
 
 - [you-dont-need/You-Dont-Need-Lodash-Underscore](https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore)
