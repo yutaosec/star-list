@@ -1,8 +1,20 @@
-# All repos starred by CygraRepo with the most stars:- [996.ICU](https://github.com/996icu/996.ICU)
+# All repos starred by Cygra
+
+Repo with the most stars:
+
+- [996.ICU](https://github.com/996icu/996.ICU)
   - ⭐: 262122
-  - 📖: Repo for counting stars and contributing. Press F to pay respect to glorious developers.Repo with the least stars:- [cowpea](https://github.com/Cygra/cowpea)
+  - 📖: Repo for counting stars and contributing. Press F to pay respect to glorious developers.
+
+Repo with the least stars:
+
+- [cowpea](https://github.com/Cygra/cowpea)
   - ⭐: 1
-  - 📖: nullThe whole list: - [octokit.js](https://github.com/octokit/octokit.js)
+  - 📖: null
+
+The whole list: 
+
+- [octokit.js](https://github.com/octokit/octokit.js)
   - ⭐: 5435
   - 📖: The all-batteries-included GitHub SDK for Browsers, Node.js, and Deno.
 - [rfcs](https://github.com/reactjs/rfcs)
@@ -27,7 +39,7 @@
   - ⭐: 17449
   - 📖: Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
 - [turborepo](https://github.com/vercel/turborepo)
-  - ⭐: 7384
+  - ⭐: 7385
   - 📖: The High-performance Build System for JavaScript & TypeScript Codebases
 - [mermaid](https://github.com/mermaid-js/mermaid)
   - ⭐: 46975
@@ -585,7 +597,7 @@
   - ⭐: 475
   - 📖: 用Flutter开发的跨平台项目，完美运行在Android和iOS上，Material简洁风格，包括启动页、引导页、注册、登录、首页、体系、公众号、导航、项目，还有漂亮的妹子图库，运行极度流畅，结构清晰，代码规范，值得拥有
 - [CS-Notes](https://github.com/CyC2018/CS-Notes)
-  - ⭐: 150336
+  - ⭐: 150335
   - 📖: :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
 - [xiaozhi](https://github.com/qq449245884/xiaozhi)
   - ⭐: 4548
@@ -621,7 +633,7 @@
   - ⭐: 773
   - 📖: Style Half of a Character by CSS
 - [terminal](https://github.com/microsoft/terminal)
-  - ⭐: 82828
+  - ⭐: 82829
   - 📖: The new Windows Terminal and the original Windows console host, all in the same place!
 - [technology-blog](https://github.com/airuikun/technology-blog)
   - ⭐: 3071
@@ -1020,7 +1032,7 @@
   - ⭐: 2643
   - 📖: Microsoft Edge
 - [TypeScript](https://github.com/microsoft/TypeScript)
-  - ⭐: 80380
+  - ⭐: 80381
   - 📖: TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [material-components-web](https://github.com/material-components/material-components-web)
   - ⭐: 16163
@@ -1062,7 +1074,7 @@
   - ⭐: 19710
   - 📖: 🍰 Everything is RSSible
 - [monaco-editor](https://github.com/microsoft/monaco-editor)
-  - ⭐: 29309
+  - ⭐: 29310
   - 📖: A browser based code editor
 - [progress-estimator](https://github.com/bvaughn/progress-estimator)
   - ⭐: 2088
@@ -1194,7 +1206,7 @@
   - ⭐: 38844
   - 📖: Delightful JavaScript Testing.
 - [react-native](https://github.com/facebook/react-native)
-  - ⭐: 102491
+  - ⭐: 102492
   - 📖: A framework for building native applications using React
 - [react-native-guide](https://github.com/reactnativecn/react-native-guide)
   - ⭐: 16795
@@ -1305,7 +1317,7 @@
   - ⭐: 4136
   - 📖: Runtime type checking for React props and similar objects
 - [vscode](https://github.com/microsoft/vscode)
-  - ⭐: 131223
+  - ⭐: 131224
   - 📖: Visual Studio Code
 - [lux](https://github.com/iawia002/lux)
   - ⭐: 17763
