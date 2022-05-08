@@ -628,7 +628,7 @@
   - 💡: `chrome` `debug` `devtools` `electron` `light` `lightproxy` `proxy` `typescript` `whistle`
 
 - [zadam/trilium](https://github.com/zadam/trilium)
-  - ⭐: 15,846
+  - ⭐: 15,847
   - 📖: Build your personal knowledge base with Trilium Notes
   - 💡: `electron` `electron-app` `knowledge-base` `knowledge-graph` `knowledge-management` `knowledge-management-graph` `local-first` `note-managment` `note-taker` `note-taking` `notebook` `notes` `notes-app` `personal-knowledge-base` `personal-wiki` `scriptable` `self-hosted` `self-hosting` `wiki`
 
