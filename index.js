@@ -41,10 +41,17 @@ const findMinAndMaxStars = (list) => {
   return [min, max];
 };
 
-const getDisplay = ({ name, html_url, description, stargazers_count }) =>
-  `- [${name}](${html_url})\n` +
+const getDisplay = ({
+  full_name,
+  html_url,
+  description,
+  stargazers_count,
+  topics,
+}) =>
+  `- [${full_name}](${html_url})\n` +
   `  - \u2B50: ${stargazers_count.toLocaleString()}\n` +
-  `  - \uD83D\uDCD6: ${description}`;
+  `  - \uD83D\uDCD6: ${description}` +
+  `  - \uD83D\uDCA1: ${topics.map((it) => `\`${it}\``).join(" ")}`;
 
 try {
   (async () => {
@@ -66,6 +73,11 @@ try {
         content: Buffer.from(
           [
             `# All repos starred by ${USER}`,
+            ``,
+            `## Create your own star-list: `,
+            `- fork this repo`,
+            `- change \`user\` \`email\` \`repo\` \`file\` in .github/workflows/main.yml to your info`,
+            `- Run workflow manually to flush the data`,
             ``,
             `## Repo with the most stars:`,
             ``,
