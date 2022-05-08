@@ -1238,7 +1238,7 @@
   - ⭐: 27,804
   - 📖: :see_no_evil:程序员找工作黑名单，换工作和当技术合伙人需谨慎啊 更新有赞  - 💡: 
 - [Homebrew/brew](https://github.com/Homebrew/brew)
-  - ⭐: 32,066
+  - ⭐: 32,065
   - 📖: 🍺 The missing package manager for macOS (or Linux)  - 💡: `brew` `homebrew` `macos` `package-manager` `ruby`
 - [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode)
   - ⭐: 20,241
@@ -1400,7 +1400,7 @@
   - ⭐: 14,132
   - 📖: Manage your app's Ruby environment  - 💡: `bash` `ruby` `ruby-installation` `ruby-versions` `shell`
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)
-  - ⭐: 144,740
+  - ⭐: 144,741
   - 📖: 🙃   A delightful community-driven (with 2,000+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.  - 💡: `cli` `cli-app` `hacktoberfest` `oh-my-zsh` `oh-my-zsh-plugin` `oh-my-zsh-theme` `ohmyzsh` `plugin-framework` `plugins` `productivity` `shell` `terminal` `theme` `themes` `zsh` `zsh-configuration`
 - [rails/webpacker](https://github.com/rails/webpacker)
   - ⭐: 5,298
