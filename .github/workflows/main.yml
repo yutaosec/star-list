@@ -14,7 +14,7 @@ jobs:
         uses: ./
         id: star-list
         with:
-          pat: ${{ secrets.SuperSecret }}
+          pat: ${{ secrets.pat }}
           user: Cygra
           email: sjtuwbh@gmail.com
           repo: star-list
