@@ -66,7 +66,7 @@
   - ⭐: 530
   - 📖: Native access to MacOS FSEvents in Node.js
 - [HowToCook](https://github.com/Anduin2017/HowToCook)
-  - ⭐: 41,185
+  - ⭐: 41,186
   - 📖: 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only).
 - [emoji-to-scale](https://github.com/javierbyte/emoji-to-scale)
   - ⭐: 329
@@ -180,7 +180,7 @@
   - ⭐: 2,629
   - 📖: null
 - [vite](https://github.com/vitejs/vite)
-  - ⭐: 41,428
+  - ⭐: 41,429
   - 📖: Next generation frontend tooling. It's fast!
 - [sequencer64](https://github.com/drumnickydrum/sequencer64)
   - ⭐: 187
@@ -231,7 +231,7 @@
   - ⭐: 2,471
   - 📖: Easily generate flowcharts and diagrams from text ⿻
 - [html-to-image](https://github.com/bubkoo/html-to-image)
-  - ⭐: 2,413
+  - ⭐: 2,414
   - 📖: ✂️ Generates an image from a DOM node using HTML5 canvas and SVG.
 - [lint-md](https://github.com/lint-md/lint-md)
   - ⭐: 818
@@ -279,7 +279,7 @@
   - ⭐: 19,365
   - 📖: :video_game: A list of popular/awesome video games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
 - [mini-vue](https://github.com/cuixiaorui/mini-vue)
-  - ⭐: 6,301
+  - ⭐: 6,302
   - 📖: 实现最简 vue3 模型( Help you learn more efficiently vue3 source code )
 - [jlgl-cli](https://github.com/TimorCookie/jlgl-cli)
   - ⭐: 1
@@ -534,7 +534,7 @@
   - ⭐: 6,685
   - 📖: 🧱 A suite of React components .
 - [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)
-  - ⭐: 152,780
+  - ⭐: 152,782
   - 📖: A book series on JavaScript. @YDKJS on twitter.
 - [any-rule](https://github.com/any86/any-rule)
   - ⭐: 6,044
@@ -543,7 +543,7 @@
   - ⭐: 287
   - 📖: Vue 3 源码解读
 - [hotkeys](https://github.com/jaywcjlove/hotkeys)
-  - ⭐: 5,356
+  - ⭐: 5,355
   - 📖: ➷ A robust Javascript library for capturing keyboard input. It has no dependencies. 
 - [big.js](https://github.com/MikeMcl/big.js)
   - ⭐: 3,937
@@ -942,7 +942,7 @@
   - ⭐: 23,049
   - 📖: ✌️ A spring physics based React animation library
 - [git](https://github.com/git/git)
-  - ⭐: 42,017
+  - ⭐: 42,018
   - 📖: Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.
 - [himawaripy](https://github.com/boramalper/himawaripy)
   - ⭐: 1,520
@@ -1290,7 +1290,7 @@
   - ⭐: 5,339
   - 📖: Check if a number is equal to 13.
 - [javascript](https://github.com/airbnb/javascript)
-  - ⭐: 122,758
+  - ⭐: 122,757
   - 📖: JavaScript Style Guide
 - [ruby-sass](https://github.com/sass/ruby-sass)
   - ⭐: 178
@@ -1317,7 +1317,7 @@
   - ⭐: 4,136
   - 📖: Runtime type checking for React props and similar objects
 - [vscode](https://github.com/microsoft/vscode)
-  - ⭐: 131,260
+  - ⭐: 131,261
   - 📖: Visual Studio Code
 - [lux](https://github.com/iawia002/lux)
   - ⭐: 17,766
