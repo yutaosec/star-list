@@ -27,18 +27,40 @@ const getFullList = async (page, data) => {
   return await getFullList(p + 1, list);
 };
 
-const findMinAndMaxStars = (list) => {
-  let min = list[0],
-    max = list[0];
+const threeLargest = (list) => {
+  let first, second, third;
+  third = first = second = { stargazers_count: 0 };
   list.forEach((it) => {
-    if (it.stargazers_count > max.stargazers_count) {
-      max = it;
-    }
-    if (it.stargazers_count < min.stargazers_count) {
-      min = it;
+    if (it.stargazers_count > first.stargazers_count) {
+      third = second;
+      second = first;
+      first = it;
+    } else if (it.stargazers_count > second.stargazers_count) {
+      third = second;
+      second = it;
+    } else if (it.stargazers_count > third.stargazers_count) {
+      third = it;
     }
   });
-  return [min, max];
+  return [first, second, third];
+};
+
+const threeSmallest = (list) => {
+  let first, second, third;
+  third = first = second = { stargazers_count: Number.MAX_SAFE_INTEGER };
+  list.forEach((it) => {
+    if (it.stargazers_count < first.stargazers_count) {
+      third = second;
+      second = first;
+      first = it;
+    } else if (it.stargazers_count < second.stargazers_count) {
+      third = second;
+      second = it;
+    } else if (it.stargazers_count < third.stargazers_count) {
+      third = it;
+    }
+  });
+  return [first, second, third];
 };
 
 const getDisplay = ({
@@ -65,7 +87,6 @@ const getDisplay = ({
 try {
   (async () => {
     const data = await getFullList(1);
-    const [min, max] = findMinAndMaxStars(data);
 
     await axios.put(
       FILE_PATH,
@@ -90,11 +111,11 @@ try {
             ``,
             `## Repo with the most stars:`,
             ``,
-            getDisplay(max),
+            ...threeLargest(data).map(getDisplay),
             ``,
             `## Repo with the least stars:`,
             ``,
-            getDisplay(min),
+            ...threeSmallest(data).map(getDisplay),
             ``,
             `## The whole list: `,
             ``,
