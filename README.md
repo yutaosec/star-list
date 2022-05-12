@@ -8,7 +8,7 @@
 ## Contents:
 - [Repo with the most stars](#repo-with-the-most-stars)
 - [Repo with the least stars](#repo-with-the-least-stars)
-- [Top topics](#top-20-topics)
+- [Top 20 topics](#top-20-topics)
 - [The whole list](#the-whole-list)
 
 ## Repo with the most stars:
@@ -18,12 +18,12 @@
   - 📖: Repo for counting stars and contributing. Press F to pay respect to glorious developers.
 
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
-  - ⭐: 200,534
+  - ⭐: 200,536
   - 📖: 😎 Awesome lists about all kinds of interesting topics
   - 💡: `awesome` `awesome-list` `lists` `resources` `unicorns`
 
 - [facebook/react](https://github.com/facebook/react)
-  - ⭐: 187,805
+  - ⭐: 187,806
   - 📖: A declarative, efficient, and flexible JavaScript library for building user interfaces.
   - 💡: `declarative` `frontend` `javascript` `library` `react` `ui`
 
@@ -45,7 +45,7 @@
 
 ## Top 20 topics:
 
-`javascript | 97` `react | 56` `react-native | 30` `typescript | 29` `hacktoberfest | 27` `nodejs | 27` `css | 21` `android | 17` `vue | 16` `redux | 15` `ios | 14` `es6 | 12` `html | 12` `frontend | 11` `github | 10` `shell | 10` `reactjs | 10` `cli | 9` `framework | 9` `svg | 9`
+`javascript` `react` `react-native` `typescript` `hacktoberfest` `nodejs` `css` `android` `vue` `redux` `ios` `es6` `html` `frontend` `github` `shell` `reactjs` `cli` `framework` `svg`
 
 ## The whole list: 
 
@@ -82,7 +82,7 @@
   - 📖: 前端知识进阶
 
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)
-  - ⭐: 29,248
+  - ⭐: 29,249
   - 📖: Virtual whiteboard for sketching hand-drawn like diagrams
   - 💡: `collaboration` `diagrams` `drawing` `hacktoberfest` `productivity` `whiteboard`
 
@@ -111,11 +111,11 @@
   - 💡: `build-system` `build-tool` `javascript` `monorepo` `typescript`
 
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid)
-  - ⭐: 47,109
+  - ⭐: 47,110
   - 📖: Generation of diagram and flowchart from text in a similar manner as markdown
 
 - [naptha/tesseract.js](https://github.com/naptha/tesseract.js)
-  - ⭐: 26,783
+  - ⭐: 26,784
   - 📖: Pure Javascript OCR for more than 100 Languages 📖🎉🖥
   - 💡: `deep-learning` `javascript` `ocr` `tesseract` `webassembly`
 
@@ -303,7 +303,7 @@
   - 📖: leehey's blog -- 请star或者watch
 
 - [iamkun/dayjs](https://github.com/iamkun/dayjs)
-  - ⭐: 38,871
+  - ⭐: 38,872
   - 📖: ⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API
   - 💡: `date` `date-formatting` `datetime` `dayjs` `moment` `time`
 
@@ -361,7 +361,7 @@
   - 📖: ⚡️ React Performance First Form Component
 
 - [ant-design/ant-design](https://github.com/ant-design/ant-design)
-  - ⭐: 80,194
+  - ⭐: 80,196
   - 📖: An enterprise-class UI design language and React UI library
   - 💡: `ant-design` `antd` `design-systems` `react` `typescript` `ui-kit` `ui-library`
 
@@ -439,7 +439,7 @@
   - 💡: `es6` `javascript` `proxy` `typescript`
 
 - [rust-lang/rustlings](https://github.com/rust-lang/rustlings)
-  - ⭐: 24,111
+  - ⭐: 24,113
   - 📖: :crab: Small exercises to get you used to reading and writing Rust code!
   - 💡: `beginner-friendly` `rust` `rustlings`
 
@@ -496,7 +496,7 @@
   - 💡: `canvas` `css` `dom` `html` `image` `javascript` `raster` `render` `svg` `vector`
 
 - [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN)
-  - ⭐: 92,630
+  - ⭐: 92,631
   - 📖: :books: 免费的计算机编程类中文书籍，欢迎投稿
   - 💡: `android` `angular` `books` `free` `ios` `javascript` `kotlin` `pdf` `programming` `python` `react` `react-native` `swift` `vue`
 
@@ -547,7 +547,7 @@
   - 💡: `console` `debugger` `developer-tools` `eruda` `mobile`
 
 - [sveltejs/svelte](https://github.com/sveltejs/svelte)
-  - ⭐: 58,052
+  - ⭐: 58,053
   - 📖: Cybernetically enhanced web apps
   - 💡: `compiler` `template` `ui`
 
@@ -576,7 +576,7 @@
   - 💡: `drag-and-drop` `es2015` `grid` `javascript` `react` `resize`
 
 - [expressjs/express](https://github.com/expressjs/express)
-  - ⭐: 56,945
+  - ⭐: 56,946
   - 📖: Fast, unopinionated, minimalist web framework for node.
   - 💡: `express` `javascript` `nodejs` `server`
 
@@ -628,7 +628,7 @@
   - 📖: Generate TypeScript types from Swagger OpenAPI specs
 
 - [solidjs/solid](https://github.com/solidjs/solid)
-  - ⭐: 17,075
+  - ⭐: 17,076
   - 📖: A declarative, efficient, and flexible JavaScript library for building user interfaces.
   - 💡: `declarative` `fine-grained` `javascript` `jsx` `performance` `proxies` `reactive` `solid`
 
@@ -774,7 +774,7 @@
   - 💡: `awesome` `awesome-list` `css` `daily` `frontend` `html` `javascript` `jquery` `js` `news` `newsletter` `vue` `weekly`
 
 - [storybookjs/storybook](https://github.com/storybookjs/storybook)
-  - ⭐: 70,855
+  - ⭐: 70,854
   - 📖: 📓 The UI component explorer. Develop, document, & test React, Vue, Angular, Web Components, Ember, Svelte & more!
   - 💡: `angular` `components` `design-systems` `documentation` `ember` `html` `javascript` `polymer` `react` `react-native` `storybook` `styleguide` `svelte` `testing` `typescript` `ui` `ui-components` `vue` `web-components` `webpack`
 
@@ -867,7 +867,7 @@
   - 📖: A fast Javascript string diff
 
 - [yifeikong/reverse-interview-zh](https://github.com/yifeikong/reverse-interview-zh)
-  - ⭐: 14,105
+  - ⭐: 14,104
   - 📖: 技术面试最后反问面试官的话
   - 💡: `interview` `interview-questions` `reverse-interview`
 
@@ -990,7 +990,7 @@
   - 💡: `beautifier` `chrome-extension` `css` `highlight` `javascript` `medium`
 
 - [axios/axios](https://github.com/axios/axios)
-  - ⭐: 93,288
+  - ⭐: 93,289
   - 📖: Promise based HTTP client for the browser and node.js
   - 💡: `hacktoberfest` `http-client` `javascript` `nodejs` `promise`
 
@@ -1122,7 +1122,7 @@
   - 📖: 前端体系规划指南。Architecture of Frontend Development Efficiency
 
 - [yygmind/blog](https://github.com/yygmind/blog)
-  - ⭐: 9,854
+  - ⭐: 9,855
   - 📖: 我是木易杨，公众号「高级前端进阶」作者，跟着我每周重点攻克一个前端面试重难点。接下来让我带你走进高级前端的世界，在进阶的路上，共勉！
   - 💡: `advance` `blog` `css` `html` `javascript` `react` `vue`
 
@@ -1136,7 +1136,7 @@
   - 💡: `awesome` `github` `hellogithub` `python`
 
 - [facebook/docusaurus](https://github.com/facebook/docusaurus)
-  - ⭐: 33,139
+  - ⭐: 33,141
   - 📖: Easy to maintain open source documentation websites.
   - 💡: `documentation` `hacktoberfest` `javascript` `open-source` `react` `website`
 
@@ -1163,7 +1163,7 @@
   - 💡: `dictionary` `front-end` `russian` `translation`
 
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
-  - ⭐: 200,534
+  - ⭐: 200,536
   - 📖: 😎 Awesome lists about all kinds of interesting topics
   - 💡: `awesome` `awesome-list` `lists` `resources` `unicorns`
 
@@ -1337,7 +1337,7 @@
   - 📖: Command-line program to download videos from YouTube.com and other video sites
 
 - [flutter/plugins](https://github.com/flutter/plugins)
-  - ⭐: 15,640
+  - ⭐: 15,641
   - 📖: Plugins for Flutter maintained by the Flutter team
   - 💡: `android` `dart` `flutter` `flutter-plugin` `ios` `plugin`
 
@@ -1352,7 +1352,7 @@
   - 💡: `chinese` `hanzi` `pinyin` `zhongwen`
 
 - [refined-github/refined-github](https://github.com/refined-github/refined-github)
-  - ⭐: 17,779
+  - ⭐: 17,780
   - 📖: :octocat: Browser extension that simplifies the GitHub interface and adds useful features
   - 💡: `browser-extension` `chrome-extension` `firefox-addon` `github` `github-extension` `userstyle`
 
@@ -1433,7 +1433,7 @@
   - 💡: `debug` `spy-debugger` `wechat` `weinre`
 
 - [Avik-Jain/100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
-  - ⭐: 37,181
+  - ⭐: 37,182
   - 📖: 100 Days of ML Coding
   - 💡: `100-days-of-code-log` `100daysofcode` `deep-learning` `implementation` `infographics` `linear-algebra` `linear-regression` `logistic-regression` `machine-learning` `machine-learning-algorithms` `naive-bayes-classifier` `python` `scikit-learn` `siraj-raval` `siraj-raval-challenge` `support-vector-machines` `svm` `tutorial`
 
@@ -1488,7 +1488,7 @@
   - 📖: HTML/CSS drawing in the style of an 18th-century oil painting. Hand-coded entirely in HTML & CSS.
 
 - [iampawan/FlutterExampleApps](https://github.com/iampawan/FlutterExampleApps)
-  - ⭐: 16,745
+  - ⭐: 16,744
   - 📖: [Example APPS] Basic Flutter apps, for flutter devs.
   - 💡: `android` `apps` `cross-platform` `dart` `dartlang` `flutter` `flutter-apps` `flutter-plugin` `ios` `material-design`
 
@@ -1561,7 +1561,7 @@
   - 📖: 📙 React translation library with plain objects as dictionaries
 
 - [markedjs/marked](https://github.com/markedjs/marked)
-  - ⭐: 27,499
+  - ⭐: 27,498
   - 📖: A markdown parser and compiler. Built for speed.
   - 💡: `commonmark` `compiler` `gfm` `markdown` `parser`
 
@@ -1595,7 +1595,7 @@
   - 💡: `lerna` `monorepo` `npm` `package` `publishing`
 
 - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
-  - ⭐: 140,560
+  - ⭐: 140,561
   - 📖: 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
   - 💡: `algorithm` `algorithms` `computer-science` `data-structures` `interview` `interview-preparation` `javascript` `javascript-algorithms`
 
@@ -1885,7 +1885,7 @@
   - 💡: `cli` `command-line` `javascript` `kitten` `meow` `nodejs`
 
 - [flutter/flutter](https://github.com/flutter/flutter)
-  - ⭐: 139,741
+  - ⭐: 139,744
   - 📖: Flutter makes it easy and fast to build beautiful apps for mobile and beyond
   - 💡: `android` `app-framework` `dart` `dart-platform` `desktop` `fuchsia` `ios` `linux-desktop` `macos` `material-design` `mobile` `skia` `web` `web-framework` `windows`
 
@@ -2026,7 +2026,7 @@
   - 💡: `framework` `icejs` `microfrontends` `mpa` `nodejs` `react` `react-router` `serverless` `spa` `ssr` `typescript` `vite` `webpack`
 
 - [facebook/react](https://github.com/facebook/react)
-  - ⭐: 187,805
+  - ⭐: 187,806
   - 📖: A declarative, efficient, and flexible JavaScript library for building user interfaces.
   - 💡: `declarative` `frontend` `javascript` `library` `react` `ui`
 
@@ -2091,12 +2091,12 @@
   - 📖: Runtime type checking for React props and similar objects
 
 - [microsoft/vscode](https://github.com/microsoft/vscode)
-  - ⭐: 131,520
+  - ⭐: 131,522
   - 📖: Visual Studio Code
   - 💡: `editor` `electron` `microsoft` `typescript` `visual-studio-code`
 
 - [iawia002/lux](https://github.com/iawia002/lux)
-  - ⭐: 17,814
+  - ⭐: 17,815
   - 📖: 👾 Fast and simple video download library and CLI tool written in Go
   - 💡: `bilibili` `crawler` `download` `downloader` `go` `golang` `hacktoberfest` `iqiyi` `qq` `scraper` `tumblr` `video` `youku` `youtube`
 
@@ -2216,7 +2216,7 @@
   - 💡: `bash` `ruby` `ruby-installation` `ruby-versions` `shell`
 
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)
-  - ⭐: 144,939
+  - ⭐: 144,938
   - 📖: 🙃   A delightful community-driven (with 2,000+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
   - 💡: `cli` `cli-app` `hacktoberfest` `oh-my-zsh` `oh-my-zsh-plugin` `oh-my-zsh-theme` `ohmyzsh` `plugin-framework` `plugins` `productivity` `shell` `terminal` `theme` `themes` `zsh` `zsh-configuration`
 
