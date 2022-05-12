@@ -7074,6 +7074,7 @@ try {
             ``,
             `## Create your own star-list: `,
             `- fork this repo`,
+            `- generate a [Github Personal Access Token](https://github.com/settings/tokens) with \`repo\` scope, config it as \`pat\` in settings - secrets - actions`,
             `- change \`user\` \`email\` \`repo\` \`file\` in .github/workflows/main.yml to your info`,
             `- Run workflow manually to flush the data`,
             ``,
