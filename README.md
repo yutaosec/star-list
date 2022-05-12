@@ -2,6 +2,7 @@
 
 ## Create your own star-list: 
 - fork this repo
+- generate a [Github Personal Access Token](https://github.com/settings/tokens) with `repo` scope, config it as `pat` in settings - secrets - actions
 - change `user` `email` `repo` `file` in .github/workflows/main.yml to your info
 - Run workflow manually to flush the data
 
@@ -18,7 +19,7 @@
   - 📖: Repo for counting stars and contributing. Press F to pay respect to glorious developers.
 
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
-  - ⭐: 200,536
+  - ⭐: 200,535
   - 📖: 😎 Awesome lists about all kinds of interesting topics
   - 💡: `awesome` `awesome-list` `lists` `resources` `unicorns`
 
@@ -115,7 +116,7 @@
   - 📖: Generation of diagram and flowchart from text in a similar manner as markdown
 
 - [naptha/tesseract.js](https://github.com/naptha/tesseract.js)
-  - ⭐: 26,784
+  - ⭐: 26,785
   - 📖: Pure Javascript OCR for more than 100 Languages 📖🎉🖥
   - 💡: `deep-learning` `javascript` `ocr` `tesseract` `webassembly`
 
@@ -501,7 +502,7 @@
   - 💡: `android` `angular` `books` `free` `ios` `javascript` `kotlin` `pdf` `programming` `python` `react` `react-native` `swift` `vue`
 
 - [laurent22/joplin](https://github.com/laurent22/joplin)
-  - ⭐: 29,621
+  - ⭐: 29,622
   - 📖: Joplin - an open source note taking and to-do application with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
   - 💡: `android` `dropbox` `electron` `enex-files` `evernote` `javascript` `joplin` `nextcloud` `nodejs` `note-taking` `onedrive` `react-native` `synchronisation` `web-clipper` `webdav`
 
@@ -812,7 +813,7 @@
   - 💡: `ahooks` `hooks-library` `react` `react-hooks` `umi-hooks`
 
 - [github/gitignore](https://github.com/github/gitignore)
-  - ⭐: 132,947
+  - ⭐: 132,948
   - 📖: A collection of useful .gitignore templates
   - 💡: `git` `gitignore`
 
@@ -990,7 +991,7 @@
   - 💡: `beautifier` `chrome-extension` `css` `highlight` `javascript` `medium`
 
 - [axios/axios](https://github.com/axios/axios)
-  - ⭐: 93,289
+  - ⭐: 93,290
   - 📖: Promise based HTTP client for the browser and node.js
   - 💡: `hacktoberfest` `http-client` `javascript` `nodejs` `promise`
 
@@ -1163,7 +1164,7 @@
   - 💡: `dictionary` `front-end` `russian` `translation`
 
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
-  - ⭐: 200,536
+  - ⭐: 200,535
   - 📖: 😎 Awesome lists about all kinds of interesting topics
   - 💡: `awesome` `awesome-list` `lists` `resources` `unicorns`
 
@@ -1357,7 +1358,7 @@
   - 💡: `browser-extension` `chrome-extension` `firefox-addon` `github` `github-extension` `userstyle`
 
 - [nvbn/thefuck](https://github.com/nvbn/thefuck)
-  - ⭐: 70,869
+  - ⭐: 70,870
   - 📖: Magnificent app which corrects your previous console command.
   - 💡: `python` `shell`
 
@@ -1418,7 +1419,7 @@
   - 💡: `chinese-programmers` `documentation` `pronunciation` `spelling`
 
 - [doocs/advanced-java](https://github.com/doocs/advanced-java)
-  - ⭐: 63,325
+  - ⭐: 63,327
   - 📖: 😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识
   - 💡: `advanced-java` `distributed-search-engine` `distributed-systems` `doocs` `dubbo` `elasticsearch` `eureka` `feign` `high-availability` `high-concurrency` `hystrix` `java` `message-queue` `microservices-architecture` `redis` `ribbon` `rpc` `spring-cloud` `springcloud-config` `zookeeper`
 
@@ -1716,7 +1717,7 @@
   - 💡: `bilibili` `disqus` `douban` `douyin` `dribbble` `instagram` `iqiyi` `jike` `juejin` `pixiv` `rss` `telegram` `twitter` `v2ex` `wechat` `weibo` `youtube` `zhihu`
 
 - [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor)
-  - ⭐: 29,411
+  - ⭐: 29,412
   - 📖: A browser based code editor
   - 💡: `browser` `editor` `monaco-editor` `typescript` `vscode`
 
@@ -1806,7 +1807,7 @@
   - 📖: source code from the book Genetic Algorithms with Python by Clinton Sheppard
 
 - [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
-  - ⭐: 38,970
+  - ⭐: 38,971
   - 📖: The repository for high quality TypeScript type definitions.
   - 💡: `definition` `dts` `hacktoberfest` `types` `typescript` `typescript-definitions` `typings`
 
@@ -1885,7 +1886,7 @@
   - 💡: `cli` `command-line` `javascript` `kitten` `meow` `nodejs`
 
 - [flutter/flutter](https://github.com/flutter/flutter)
-  - ⭐: 139,744
+  - ⭐: 139,745
   - 📖: Flutter makes it easy and fast to build beautiful apps for mobile and beyond
   - 💡: `android` `app-framework` `dart` `dart-platform` `desktop` `fuchsia` `ios` `linux-desktop` `macos` `material-design` `mobile` `skia` `web` `web-framework` `windows`
 
