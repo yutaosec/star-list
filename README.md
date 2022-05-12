@@ -5,14 +5,20 @@
 - change `user` `email` `repo` `file` in .github/workflows/main.yml to your info
 - Run workflow manually to flush the data
 
+## Contents:
+- [Repo with the most stars](#repo-with-the-most-stars)
+- [Repo with the least stars](#repo-with-the-least-stars)
+- [Top topics](#top-topics)
+- [The whole list](#the-whole-list)
+
 ## Repo with the most stars:
 
 - [996icu/996.ICU](https://github.com/996icu/996.ICU)
-  - ⭐: 262,194
+  - ⭐: 262,195
   - 📖: Repo for counting stars and contributing. Press F to pay respect to glorious developers.
 
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
-  - ⭐: 200,534
+  - ⭐: 200,533
   - 📖: 😎 Awesome lists about all kinds of interesting topics
   - 💡: `awesome` `awesome-list` `lists` `resources` `unicorns`
 
@@ -36,6 +42,10 @@
   - ⭐: 3
   - 📖: Load, analyze and display your iOS15 App Privacy Report locally.
 
+
+## Top topics:
+
+`javascript` ,`react` ,`react-native` ,`typescript` ,`hacktoberfest` ,`nodejs` ,`css` ,`android` ,`vue` ,`redux` ,`ios` ,`es6` ,`html` ,`frontend` ,`github` ,`shell` ,`reactjs` ,`cli` ,`framework` ,`svg` ,`angular` ,`ruby` ,`python` ,`interview` ,`material-design` ,`dart` ,`terminal` ,`macos` ,`command-line` ,`electron` ,`git` ,`flutter` ,`awesome` ,`chrome-extension` ,`console` ,`vscode` ,`react-components` ,`chrome` ,`interview-questions` ,`computer-science` ,`testing` ,`awesome-list` ,`chinese` ,`java` ,`drag-and-drop` ,`blog` ,`webpack` ,`antd` ,`editor` ,`canvas` ,`markdown` ,`compiler` ,`programming` ,`mobile` ,`js` ,`api` ,`documentation` ,`algorithm` ,`wechat` ,`video` ,`browser-extension` ,`self-hosted` ,`bash` ,`emoji` ,`grid` ,`vue3` ,`ant-design` ,`svelte` ,`jsx` ,`react-router` ,`ui` ,`youtube` ,`browser` ,`node` ,`algorithms` ,`data-structures` ,`chart` ,`charts` ,`shadowsocks` ,`ssr` ,`style-guide` ,`animation` ,`rails` ,`async` ,`json` ,`developer-tools` ,`deep-learning` ,`swift` ,`front-end` ,`microfrontends` ,`webpack-plugin` ,`vite` ,`tool` ,`design-systems` ,`ui-kit` ,`dom` ,`image` ,`vscode-extension` ,`proxy` ,`rust` ,`gfm` ,`game` ,`react-component` ,`es2015` ,`express` ,`go` ,`components` ,`book` ,`component` ,`performance` ,`npm` ,`leetcode` ,`data-visualization` ,`jquery` ,`styleguide` ,`ui-components` ,`kubernetes` ,`machine-learning` ,`education` ,`eslint` ,`c` ,`web` ,`interview-preparation` ,`html5` ,`css-in-js` ,`zsh` ,`redux-saga` ,`angular-components` ,`resources` ,`rest` ,`productivity` ,`automation` ,`low-code` ,`low-code-framework` ,`build-tool` ,`monorepo` ,`webassembly` ,`regex` ,`visualization` ,`http` ,`music` ,`streaming` ,`homebrew` ,`higher-order-component` ,`sortable` ,`validation` ,`userscript` ,`state-tree` ,`mpa` ,`spa` ,`webextension` ,`datetime` ,`hmr` ,`server` ,`font` ,`ui-library` ,`h5` ,`page-builder` ,`vuejs` ,`vuejs2` ,`icons` ,`taro` ,`form` ,`forms` ,`generator` ,`open-source` ,`vim` ,`programming-language` ,`converter` ,`books` ,`kotlin` ,`note-taking` ,`china` ,`debugger` ,`ember` ,`javascript-framework` ,`deno` ,`draggable` ,`history` ,`mocha` ,`translation` ,`downloader` ,`soundcloud` ,`declarative` ,`reactive` ,`jest` ,`react-dom` ,`yarn` ,`graph` ,`presentation` ,`mobx` ,`hooks` ,`react-hooks` ,`debug` ,`notes` ,`serverless` ,`firefox` ,`charting-library` ,`echarts` ,`flutter-apps` ,`wanandroid` ,`testing-tools` ,`daily` ,`news` ,`docker` ,`github-extension` ,`enterprise` ,`koa` ,`shadowsocksr` ,`lecture-notes` ,`learn-to-code` ,`keyboard` ,`code-push` ,`app` ,`cpp` ,`types` ,`gpu` ,`webgl` ,`mac` ,`linux` ,`javascript-algorithms` ,`tree` ,`react16` ,`qrcode` ,`tutorial` ,`functional-programming` ,`microsoft` ,`snippets` ,`flutter-plugin` ,`firefox-addon` ,`promises` ,`cli-app` ,`ansi` ,`chalk` ,`design` ,`prompt` ,`commonmark` ,`css-animations` ,`graphql` ,`css-framework` ,`scss` ,`jquery-plugin` ,`language` ,`oh-my-zsh` ,`styled-components` ,`desktop` ,`material` ,`bilibili` ,`iqiyi` ,`inline-styles` ,`react-navigation` ,`nerv` ,`nervjs` ,`windows` ,`es6-javascript` ,`snapshot` ,`ecmascript` ,`list` ,`visual-studio-code` ,`golang` ,`ng-zorro` ,`lodash` ,`utilities` ,`asyncio` ,`git-scraping` ,`github-actions` ,`github-api` ,`github-stats` ,`profile` ,`python3` ,`readme-md` ,`readme-template` ,`statistics` ,`statistics-images` ,`stats-images` ,`visualizations` ,`stars` ,`octokit` ,`collaboration` ,`diagrams` ,`drawing` ,`whiteboard` ,`javascript-plugin` ,`live2d` ,`chinese-poetry` ,`ci` ,`poetry` ,`tangshi` ,`admin-dashboard` ,`admin-panels` ,`app-builder` ,`crud` ,`custom-internal` ,`gui` ,`gui-application` ,`internal-tools` ,`webdev` ,`webdevelopment` ,`workflows` ,`build-system` ,`ocr` ,`tesseract` ,`learn-regex` ,`regular-expression` ,`ding` ,`ding-dong` ,`dingdong` ,`dong` ,`cookbook` ,`cooking` ,`dishes` ,`recipes` ,`fun` ,`monkeytype` ,`typingtest` ,`curl` ,`notifications` ,`pubsub` ,`rest-api` ,`listen` ,`mp3` ,`mp3player` ,`streaming-audio` ,`custom-design-system` ,`design-system` ,`flexable-design-system` ,`ui-libary` ,`mouse` ,`osx` ,`reverse` ,`scroll` ,`smooth` ,`smooth-scrolling` ,`smoothscroll` ,`boilerplate` ,`webapp` ,`dragging` ,`sorting` ,`hapi` ,`schema` ,`greasemonkey` ,`japanese` ,`katakana` ,`frontend-web` ,`micro-frontend` ,`micro-frontend-architecture` ,`module-federation` ,`immutable` ,`immutables` ,`reducer` ,`micro-frontends` ,`micro-frontends-solution` ,`single-spa` ,`watermark` ,`watermark-dom` ,`comments` ,`comments-widget` ,`utterances` ,`apple-music` ,`date` ,`date-formatting` ,`dayjs` ,`moment` ,`time` ,`dropdown` ,`popover` ,`popovers` ,`position` ,`positioning` ,`positioning-engine` ,`tooltip` ,`tooltip-position` ,`webpack-cache` ,`dev-server` ,`drum-machine` ,`drum-sequencer` ,`drums` ,`sequencer` ,`hosting` ,`static` ,`fontmin` ,`icon-font` ,`subset` ,`eot` ,`font-face` ,`opentype` ,`truetype` ,`ttf` ,`webfont` ,`woff` ,`woff2` ,`air-conditioner` ,`lisp` ,`mal` ,`design-tool` ,`mobile-page-maker` ,`page-editor` ,`page-generator` ,`page-maker` ,`strapi` ,`web-design` ,`web-design-framework` ,`webflow` ,`fill` ,`icon` ,`icon-components` ,`multiple-themes` ,`stroke` ,`svg-icon` ,`vue-component` ,`vue-next` ,`lucky-draw` ,`uni-app` ,`router` ,`form-validation` ,`solidjs` ,`diagram-generator` ,`flowchart` ,`flowchart-editor` ,`graphs` ,`dataurl` ,`picture` ,`screenshot` ,`lint` ,`lint-markdown` ,`lint-md` ,`lint-md-cli` ,`optimization-tools` ,`postcss` ,`postcss-plugin` ,`purgecss` ,`rollup-plugin` ,`keybindings` ,`markdown-editor` ,`markdown-viewer` ,`classical-chinese` ,`esoteric-language` ,`wenyan-lang` ,`beginner-friendly` ,`rustlings` ,`data-transfer` ,`dht` ,`file-sharing` ,`ipfs` ,`libp2p` ,`mdns` ,`pake` ,`peer-to-peer` ,`english-learning` ,`typing` ,`typing-game` ,`typing-practice` ,`typingspeedtest` ,`extension` ,`commonjs` ,`minifier` ,`module-bundler` ,`tsx` ,`html-converter` ,`markdown-flavors` ,`markdown-parser` ,`showdown` ,`game-development` ,`game-engine` ,`gamedev` ,`games` ,`html5-games` ,`platform-game` ,`puzzle-game` ,`sandbox-game` ,`strategy-game` ,`mini-vue` ,`vue3-source` ,`raster` ,`render` ,`vector` ,`free` ,`pdf` ,`dropbox` ,`enex-files` ,`evernote` ,`joplin` ,`nextcloud` ,`onedrive` ,`synchronisation` ,`web-clipper` ,`webdav` ,`crawling` ,`data` ,`holiday` ,`natural-language-processing` ,`h5-builder` ,`h5-dooring` ,`h5-editor` ,`low-code-platform` ,`lowcode` ,`miniprogram` ,`page-factory` ,`react-dnd` ,`site-generator` ,`visual-design` ,`client-side` ,`customelement` ,`customelements` ,`customtags` ,`elegant` ,`lite` ,`minimal` ,`simple` ,`view` ,`webcomponents` ,`clickhouse` ,`db2` ,`fastjson` ,`hadoop` ,`hive` ,`ios-swift` ,`mysql` ,`mysql-server` ,`oracle` ,`postgresql` ,`postgresql-database` ,`springboot` ,`sqlserver` ,`tidb` ,`typescript2` ,`eruda` ,`template` ,`vultr` ,`context-menu` ,`menu` ,`resize` ,`skills` ,`vant` ,`actionscript` ,`eich` ,`jscript` ,`spidermonkey` ,`twitch` ,`viki` ,`youtube-dl` ,`fine-grained` ,`proxies` ,`solid` ,`codemod` ,`migration` ,`bundling` ,`packaging` ,`rollup` ,`gitgraph` ,`reactive-programming` ,`formik` ,`render-props` ,`devtools` ,`light` ,`lightproxy` ,`whistle` ,`electron-app` ,`knowledge-base` ,`knowledge-graph` ,`knowledge-management` ,`knowledge-management-graph` ,`local-first` ,`note-managment` ,`note-taker` ,`notebook` ,`notes-app` ,`personal-knowledge-base` ,`personal-wiki` ,`scriptable` ,`self-hosting` ,`wiki` ,`fe-interview` ,`frontend-interview` ,`resume` ,`alibabacloud` ,`aliyun` ,`function-compute` ,`dynamic-programming` ,`dynamic-programming-algorithm` ,`kmp` ,`code-files` ,`code-review` ,`edge` ,`opera` ,`pull-request-review` ,`safari` ,`jwt` ,`token-authentication` ,`xchacha20-poly1305` ,`flutter-widgets` ,`react-ui` ,`deep-equals` ,`equal` ,`database` ,`mock` ,`jsbundle` ,`metro` ,`split` ,`newsletter` ,`weekly` ,`polymer` ,`storybook` ,`web-components` ,`progress` ,`progress-bar` ,`qier-progress` ,`qprogress` ,`cocoapod` ,`glide` ,`image-cache` ,`priority` ,`sdwebimage` ,`continuous-deployment` ,`continuous-integration` ,`devops` ,`kanban` ,`ahooks` ,`hooks-library` ,`umi-hooks` ,`gitignore` ,`crx` ,`egg` ,`eggjs` ,`koa-middleware` ,`koa2` ,`node-framework` ,`brook` ,`hostinger` ,`hostwinds` ,`ss` ,`v2ray` ,`vpn` ,`vps` ,`wireguard` ,`address` ,`administrative-divisions` ,`area` ,`city` ,`csv` ,`province` ,`street` ,`bitcion` ,`blockchain` ,`cryptocurrency` ,`hyperledger` ,`itheima` ,`hsuan-tien-lin` ,`ntu` ,`reverse-interview` ,`awesome-react-stuff` ,`rsuite` ,`suite` ,`book-series` ,`closures` ,`prototypes` ,`training-materials` ,`training-providers` ,`awsome` ,`regexp` ,`zheng-ze` ,`hotkey` ,`hotkeys` ,`keyboard-shortcuts` ,`keymaster` ,`keypress` ,`masterkey` ,`shortcut` ,`shortcutkey` ,`shortcuts` ,`arbitrary-precision` ,`bigdecimal` ,`bignumber` ,`decimal-places` ,`dps` ,`puppeteer` ,`skeleton-screen` ,`cloud-native` ,`containers` ,`gitbook` ,`handbook` ,`kubernetes-handbook` ,`microservice` ,`service-mesh` ,`freeapi` ,`code-push-server` ,`cordova` ,`codepush` ,`github-for-everyone` ,`iran` ,`iranian` ,`sanction` ,`sanctions` ,`globalization` ,`i18n` ,`internationalization` ,`language-detection` ,`input-mask` ,`inputmask` ,`mask` ,`mask-android` ,`mask-ios` ,`maskededittext` ,`maskedinput` ,`maskedtextfield` ,`system-design` ,`beautifier` ,`highlight` ,`medium` ,`http-client` ,`promise` ,`best-practices` ,`expressjs` ,`microservices` ,`node-js` ,`nodejs-development` ,`fluid` ,`navier-stokes` ,`simulation` ,`coding` ,`computerscience` ,`laws` ,`principles` ,`cmd` ,`windows-console` ,`windows-terminal` ,`wsl` ,`ncurses` ,`tui` ,`minesweeper` ,`css-preprocessor` ,`dart-sass` ,`sass` ,`qml` ,`qt` ,`retro` ,`coding-interviews` ,`heap` ,`search` ,`git-ssh` ,`stashes` ,`courses` ,`sjtu` ,`course-materials` ,`textbook` ,`advance` ,`hellogithub` ,`website` ,`ajax` ,`dictionary` ,`russian` ,`lists` ,`unicorns` ,`algo` ,`algorithms-datastructures` ,`leetcode-solutions` ,`javascript-applications` ,`javascript-interview-questions` ,`react-interview-questions` ,`camera` ,`emscripten` ,`qr-code` ,`quick-response` ,`webcam` ,`zxing` ,`curry` ,`functional-js` ,`functor` ,`monad` ,`overwatch-ui` ,`uikit` ,`adapter` ,`aop` ,`office-ui-fabric-react` ,`redux-thunk` ,`advanced` ,`miniapp` ,`mockgps` ,`monitoring` ,`tools` ,`beautiful` ,`carbon` ,`github-gist` ,`sharing` ,`tweet` ,`zero` ,`difficulty` ,`study` ,`array` ,`interview-practice` ,`interviews` ,`recursion` ,`stack` ,`strings` ,`audio` ,`ffmpeg` ,`fft` ,`hevc` ,`hls` ,`matroska` ,`mp4` ,`mpeg` ,`multimedia` ,`rtmp` ,`rtsp` ,`webm` ,`gke` ,`google-cloud` ,`grpc` ,`istio` ,`opencensus` ,`sample-application` ,`samples` ,`skaffold` ,`kcptun` ,`shadowsocksx-ng` ,`v2ray-plugin` ,`shadowsocks-libev` ,`shadowsocks-server` ,`plugin` ,`javascript-library` ,`text-animation` ,`text-effects` ,`typewriter` ,`typewriter-effect` ,`typography` ,`hanzi` ,`pinyin` ,`zhongwen` ,`userstyle` ,`cheatsheets` ,`examples` ,`help` ,`man-page` ,`manpages` ,`manual` ,`tldr` ,`interpreter` ,`javascript-engine` ,`virtual-machine` ,`itchat` ,`robot` ,`wx-api` ,`cli-application` ,`cli-command` ,`cli-tool` ,`cli-utilities` ,`cli-utility` ,`content-moderation` ,`nsfw` ,`nsfw-classifier` ,`pornography` ,`chinese-programmers` ,`pronunciation` ,`spelling` ,`advanced-java` ,`distributed-search-engine` ,`distributed-systems` ,`doocs` ,`dubbo` ,`elasticsearch` ,`eureka` ,`feign` ,`high-availability` ,`high-concurrency` ,`hystrix` ,`message-queue` ,`microservices-architecture` ,`redis` ,`ribbon` ,`rpc` ,`spring-cloud` ,`springcloud-config` ,`zookeeper` ,`computer-architecture` ,`emulation` ,`spy-debugger` ,`weinre` ,`100-days-of-code-log` ,`100daysofcode` ,`implementation` ,`infographics` ,`linear-algebra` ,`linear-regression` ,`logistic-regression` ,`machine-learning-algorithms` ,`naive-bayes-classifier` ,`scikit-learn` ,`siraj-raval` ,`siraj-raval-challenge` ,`support-vector-machines` ,`svm` ,`ramda` ,`syntax-highlighting` ,`code-reuse` ,`hook` ,`widget` ,`pangu` ,`text` ,`text-spacing` ,`ascii` ,`ascii-art` ,`sexy` ,`sexy-fonts` ,`report` ,`tracker` ,`apps` ,`cross-platform` ,`dartlang` ,`animation-library` ,`react-spring` ,`spring-physics` ,`springs` ,`angularjs` ,`angularjs-material` ,`lts` ,`coding-article` ,`promotion-promotion` ,`share` ,`web-development` ,`zaobao` ,`blood-magic` ,`git-recipes` ,`tutorials` ,`confirm` ,`hyper` ,`inquirer` ,`interactive` ,`iterm` ,`prompts` ,`readline` ,`tty` ,`yeoman` ,`yo` ,`parser` ,`bottomsheet` ,`bottomsheetbehavior` ,`floatingactionbutton` ,`google-maps` ,`nestedscrollview` ,`animated` ,`swipe` ,`tabs` ,`gem` ,`jekyll` ,`octicons` ,`octicons-helper` ,`primer` ,`babel-plugin` ,`emotion` ,`lerna` ,`package` ,`publishing` ,`e` ,`eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee` ,`jpush` ,`gesture` ,`stylesheets` ,`documentation-tool` ,`gatsby` ,`static-site-generator` ,`web-app` ,`css3` ,`css3-animations` ,`8bit` ,`nes` ,`grammar` ,`html5-canvas` ,`uml` ,`wysiwyg` ,`typechecker` ,`material-components` ,`apache` ,`data-viz` ,`d3` ,`react-native-charts` ,`react-native-d3` ,`react-native-svg` ,`mpandroidchart` ,`shell-prompt` ,`shell-theme` ,`spaceship` ,`zsh-theme` ,`zsh-users` ,`kotlin-js` ,`react-router-dom` ,`debugging` ,`reactnative` ,`reactotron` ,`disqus` ,`douban` ,`douyin` ,`dribbble` ,`instagram` ,`jike` ,`juejin` ,`pixiv` ,`rss` ,`telegram` ,`twitter` ,`v2ex` ,`weibo` ,`zhihu` ,`monaco-editor` ,`3d` ,`augmented-reality` ,`virtual-reality` ,`webaudio` ,`webgl2` ,`webgpu` ,`webxr` ,`learning` ,`dates` ,`intl` ,`times` ,`timezones` ,`jd` ,`lrc` ,`lyrics` ,`netease-cloud-api` ,`qqmusic` ,`asyncstorage` ,`localstorage` ,`sync` ,`imba` ,`critical-css` ,`critical-path-css` ,`critical-path-styles` ,`inline-css` ,`popup-menu` ,`accurate` ,`alpha-pose` ,`alphapose` ,`crowdpose` ,`full-body` ,`human-computer-interaction` ,`human-joints` ,`human-pose-estimation` ,`human-pose-tracking` ,`human-tracking` ,`keypoints` ,`person-pose-estimation` ,`pose-estimation` ,`posetracking` ,`pytorch` ,`realtime` ,`skeleton` ,`tracking` ,`whole-body` ,`shared-element-transition` ,`transition` ,`device-detection` ,`device-detector` ,`ng5` ,`ngx-device-detector` ,`react-native-doc` ,`react-native-lesson` ,`react-native-resources` ,`react-native-study` ,`react-native-tutorial` ,`definition` ,`dts` ,`typescript-definitions` ,`typings` ,`inferno` ,`preact` ,`vdom` ,`virutal-dom` ,`iqkeyboardmanager` ,`desktop-application` ,`concepts` ,`javascript-closures` ,`javascript-engines` ,`javascript-programming` ,`primitive-types` ,`shelljs` ,`unix` ,`inline-svg` ,`loader` ,`react-svg` ,`react-svg-creator` ,`react-svg-loader` ,`svg-react` ,`svg-to-react` ,`svg2react` ,`svgo` ,`webpack-loader` ,`wechat-mini-program` ,`weixin` ,`wxapp` ,`kitten` ,`meow` ,`app-framework` ,`dart-platform` ,`fuchsia` ,`linux-desktop` ,`skia` ,`web-framework` ,`learning-resources` ,`snippets-collection` ,`aplayer` ,`player` ,`react-devtools` ,`redux-devtools-extension` ,`navigation` ,`mobx-state-tree` ,`mst` ,`observable` ,`state-management` ,`e2e-tests` ,`hacktoberfest2021` ,`test-automation` ,`easy` ,`expectation` ,`facebook` ,`immersive` ,`painless` ,`painless-javascript-testing` ,`committee` ,`language-design` ,`proposal` ,`spec` ,`specification` ,`dos` ,`fullstack-developer` ,`java-interview` ,`skill-tree` ,`brew` ,`package-manager` ,`visual-studio` ,`visual-studio-code-extension` ,`visual-studio-code-theme` ,`visualstudio` ,`vscode-theme` ,`anti-captcha` ,`captcha-breaking` ,`captcha-recognition` ,`captcha-solver` ,`captcha-solving` ,`data-processing` ,`php` ,`proxy-list` ,`proxy-server` ,`proxylist` ,`proxyserver` ,`web-scraping` ,`async-functions` ,`optimistic-updates` ,`color-picker` ,`photoshop` ,`sketch` ,`hitokoto` ,`vertx` ,`ansi-escape-codes` ,`color` ,`commandline` ,`strip-ansi` ,`terminal-emulators` ,`angular-applications` ,`angular-seed` ,`angular-start` ,`angular10` ,`angular9` ,`antd-design-pro` ,`delon` ,`ng-alain` ,`ng-zorro-antd` ,`icejs` ,`library` ,`angular-cli` ,`angular-cli-ghpages` ,`gh-pages` ,`github-page` ,`ng-deploy` ,`travis-ci` ,`weapp` ,`wepy` ,`arrow-functions` ,`es2016` ,`es2017` ,`es2018` ,`linting` ,`naming-conventions` ,`style-linter` ,`tc39` ,`jsonp` ,`jsonp-request` ,`polyfill` ,`ajv` ,`json-schema` ,`validator` ,`graphql-ruby` ,`relay` ,`listview` ,`tabular-data` ,`virtualization` ,`windowing` ,`capistrano` ,`deployment` ,`ssh` ,`crawler` ,`download` ,`qq` ,`scraper` ,`tumblr` ,`youku` ,`react-framework` ,`umi` ,`umijs` ,`automated-testing` ,`chromedriver` ,`end-to-end-testing` ,`nightwatch` ,`nightwatchjs` ,`selenium` ,`selenium-server` ,`selenium-webdriver` ,`w3c-webdriver` ,`webdriver` ,`redo` ,`redux-state` ,`redux-undo` ,`undo` ,`floating-point` ,`number-converter` ,`rounding-error` ,`rubocop` ,`dva` ,`elm` ,`angular-directives` ,`angular-ui-components` ,`angular11` ,`ant` ,`ivy` ,`ngx` ,`cookie` ,`rxjs` ,`analysis` ,`cytoscapejs` ,`graph-theory` ,`network` ,`visualisation` ,`effects` ,`middleware` ,`sagas` ,`wasm` ,`alternatives` ,`eslint-plugin` ,`findindex` ,`isnan` ,`javascript-methods` ,`lastindexof` ,`native` ,`reduceright` ,`underscore` ,`modules` ,`ruby-installation` ,`ruby-versions` ,`oh-my-zsh-plugin` ,`oh-my-zsh-theme` ,`ohmyzsh` ,`plugin-framework` ,`plugins` ,`theme` ,`themes` ,`zsh-configuration` ,`datepicker` ,`jquery-datepicker-plugin` ,`activejob` ,`activerecord` ,`mvc` ,`slim` ,`template-engines` ,`ai` ,`easter-egg` ,`es7` ,`neural-network` ,`t-rex-runner` ,`tensorflow` ,`tensorflow-js` ,`chromium` ,`pdf-document` ,`pug` ,`rubygem` ,`unicode` ,`qr` ,`qrcode-generator` ,`development` ,`linter` ,`standard` ,`static-code-analysis` ,`redux-documentation` ,`desktop-app` ,`music-player` ,`drag-drop` ,`grid-layout` ,`grid-system` ,`sortable-lists` 
 
 ## The whole list: 
 
@@ -91,21 +101,21 @@
   - 💡: `chinese` `chinese-poetry` `ci` `json` `poetry` `tangshi`
 
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith)
-  - ⭐: 17,766
+  - ⭐: 17,768
   - 📖: Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
   - 💡: `admin-dashboard` `admin-panels` `app-builder` `automation` `crud` `custom-internal` `developer-tools` `gui` `gui-application` `internal-tools` `java` `javascript` `low-code` `low-code-framework` `react` `self-hosted` `typescript` `webdev` `webdevelopment` `workflows`
 
 - [vercel/turborepo](https://github.com/vercel/turborepo)
-  - ⭐: 7,444
+  - ⭐: 7,445
   - 📖: The High-performance Build System for JavaScript & TypeScript Codebases
   - 💡: `build-system` `build-tool` `javascript` `monorepo` `typescript`
 
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid)
-  - ⭐: 47,107
+  - ⭐: 47,108
   - 📖: Generation of diagram and flowchart from text in a similar manner as markdown
 
 - [naptha/tesseract.js](https://github.com/naptha/tesseract.js)
-  - ⭐: 26,782
+  - ⭐: 26,783
   - 📖: Pure Javascript OCR for more than 100 Languages 📖🎉🖥
   - 💡: `deep-learning` `javascript` `ocr` `tesseract` `webassembly`
 
@@ -137,7 +147,7 @@
   - 📖: Native access to MacOS FSEvents in Node.js
 
 - [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook)
-  - ⭐: 41,666
+  - ⭐: 41,667
   - 📖: 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only).
   - 💡: `chinese` `cookbook` `cooking` `dishes` `recipes`
 
@@ -351,7 +361,7 @@
   - 📖: ⚡️ React Performance First Form Component
 
 - [ant-design/ant-design](https://github.com/ant-design/ant-design)
-  - ⭐: 80,193
+  - ⭐: 80,194
   - 📖: An enterprise-class UI design language and React UI library
   - 💡: `ant-design` `antd` `design-systems` `react` `typescript` `ui-kit` `ui-library`
 
@@ -453,7 +463,7 @@
   - 💡: `developer-tools` `extension` `vscode`
 
 - [evanw/esbuild](https://github.com/evanw/esbuild)
-  - ⭐: 31,715
+  - ⭐: 31,716
   - 📖: An extremely fast JavaScript and CSS bundler and minifier
   - 💡: `commonjs` `compiler` `css` `es6` `javascript` `jsx` `minifier` `module-bundler` `react` `tsx` `typescript`
 
@@ -486,12 +496,12 @@
   - 💡: `canvas` `css` `dom` `html` `image` `javascript` `raster` `render` `svg` `vector`
 
 - [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN)
-  - ⭐: 92,628
+  - ⭐: 92,629
   - 📖: :books: 免费的计算机编程类中文书籍，欢迎投稿
   - 💡: `android` `angular` `books` `free` `ios` `javascript` `kotlin` `pdf` `programming` `python` `react` `react-native` `swift` `vue`
 
 - [laurent22/joplin](https://github.com/laurent22/joplin)
-  - ⭐: 29,620
+  - ⭐: 29,621
   - 📖: Joplin - an open source note taking and to-do application with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
   - 💡: `android` `dropbox` `electron` `enex-files` `evernote` `javascript` `joplin` `nextcloud` `nodejs` `note-taking` `onedrive` `react-native` `synchronisation` `web-clipper` `webdav`
 
@@ -537,7 +547,7 @@
   - 💡: `console` `debugger` `developer-tools` `eruda` `mobile`
 
 - [sveltejs/svelte](https://github.com/sveltejs/svelte)
-  - ⭐: 58,049
+  - ⭐: 58,052
   - 📖: Cybernetically enhanced web apps
   - 💡: `compiler` `template` `ui`
 
@@ -566,7 +576,7 @@
   - 💡: `drag-and-drop` `es2015` `grid` `javascript` `react` `resize`
 
 - [expressjs/express](https://github.com/expressjs/express)
-  - ⭐: 56,944
+  - ⭐: 56,945
   - 📖: Fast, unopinionated, minimalist web framework for node.
   - 💡: `express` `javascript` `nodejs` `server`
 
@@ -618,7 +628,7 @@
   - 📖: Generate TypeScript types from Swagger OpenAPI specs
 
 - [solidjs/solid](https://github.com/solidjs/solid)
-  - ⭐: 17,074
+  - ⭐: 17,075
   - 📖: A declarative, efficient, and flexible JavaScript library for building user interfaces.
   - 💡: `declarative` `fine-grained` `javascript` `jsx` `performance` `proxies` `reactive` `solid`
 
@@ -637,7 +647,7 @@
   - 💡: `bundling` `jest` `npm` `packaging` `react` `react-dom` `rollup` `typescript` `yarn`
 
 - [nicoespeon/gitgraph.js](https://github.com/nicoespeon/gitgraph.js)
-  - ⭐: 2,618
+  - ⭐: 2,619
   - 📖: 👋 [Looking for maintainers] - A JavaScript library to draw pretty git graphs in the browser
   - 💡: `git` `gitgraph` `graph` `javascript` `presentation`
 
@@ -655,7 +665,7 @@
   - 📖: null
 
 - [jaredpalmer/formik](https://github.com/jaredpalmer/formik)
-  - ⭐: 30,360
+  - ⭐: 30,361
   - 📖: Build forms in React, without the tears 😭 
   - 💡: `form` `formik` `forms` `higher-order-component` `hooks` `react` `react-hooks` `react-native` `render-props`
 
@@ -665,12 +675,12 @@
   - 💡: `chrome` `debug` `devtools` `electron` `light` `lightproxy` `proxy` `typescript` `whistle`
 
 - [zadam/trilium](https://github.com/zadam/trilium)
-  - ⭐: 15,950
+  - ⭐: 15,951
   - 📖: Build your personal knowledge base with Trilium Notes
   - 💡: `electron` `electron-app` `knowledge-base` `knowledge-graph` `knowledge-management` `knowledge-management-graph` `local-first` `note-managment` `note-taker` `note-taking` `notebook` `notes` `notes-app` `personal-knowledge-base` `personal-wiki` `scriptable` `self-hosted` `self-hosting` `wiki`
 
 - [haizlin/fe-interview](https://github.com/haizlin/fe-interview)
-  - ⭐: 20,857
+  - ⭐: 20,858
   - 📖: 前端面试每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！每天早上5点纯手工发布面试题（死磕自己，愉悦大家），5000+道前端面试题全面覆盖，HTML/CSS/JavaScript/Vue/React/Nodejs/TypeScript/ECMAScritpt/Webpack/Jquery/小程序/软技能……
   - 💡: `css` `fe-interview` `front-end` `frontend` `frontend-interview` `html` `interview` `interview-questions` `javascript` `js` `node` `nodejs` `react` `resume` `vue`
 
@@ -792,7 +802,7 @@
   - 📖: Website built with Node.js and Socket.io where users race against each other to solve generated mazes. Features a single player and one-on-one mode. Uses Prim's MST Algorithm to generate the mazes.
 
 - [denoland/deno](https://github.com/denoland/deno)
-  - ⭐: 82,376
+  - ⭐: 82,378
   - 📖: A modern runtime for JavaScript and TypeScript.
   - 💡: `deno` `javascript` `rust` `typescript`
 
@@ -838,7 +848,7 @@
   - 📖: null
 
 - [modood/Administrative-divisions-of-China](https://github.com/modood/Administrative-divisions-of-China)
-  - ⭐: 12,884
+  - ⭐: 12,885
   - 📖: 中华人民共和国行政区划：省级（省份）、 地级（城市）、 县级（区县）、 乡级（乡镇街道）、 村级（村委会居委会） ，中国省市区镇村二级三级四级五级联动地址数据。
   - 💡: `address` `administrative-divisions` `area` `china` `city` `csv` `json` `nodejs` `province` `street`
 
@@ -1153,12 +1163,12 @@
   - 💡: `dictionary` `front-end` `russian` `translation`
 
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
-  - ⭐: 200,534
+  - ⭐: 200,533
   - 📖: 😎 Awesome lists about all kinds of interesting topics
   - 💡: `awesome` `awesome-list` `lists` `resources` `unicorns`
 
 - [azl397985856/leetcode](https://github.com/azl397985856/leetcode)
-  - ⭐: 47,875
+  - ⭐: 47,876
   - 📖:  LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)
   - 💡: `algo` `algorithm` `algorithms` `algorithms-datastructures` `computer-science` `cpp` `data-structures` `interview` `java` `javascript` `leetcode` `leetcode-solutions` `python` `tree`
 
@@ -1172,12 +1182,12 @@
   - 💡: `interview-preparation` `interview-questions` `react` `react-router` `react16` `reactjs` `redux`
 
 - [sudheerj/reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions)
-  - ⭐: 20,576
+  - ⭐: 20,578
   - 📖: List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!
   - 💡: `interview-preparation` `interview-questions` `javascript` `javascript-applications` `javascript-framework` `javascript-interview-questions` `react` `react-interview-questions` `react-native` `react-router` `react16` `reactjs` `redux`
 
 - [996icu/996.ICU](https://github.com/996icu/996.ICU)
-  - ⭐: 262,194
+  - ⭐: 262,195
   - 📖: Repo for counting stars and contributing. Press F to pay respect to glorious developers.
 
 - [react-component/slider](https://github.com/react-component/slider)
@@ -1303,7 +1313,7 @@
   - 📖: Progress indicators and spinners for React Native
 
 - [FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg)
-  - ⭐: 29,464
+  - ⭐: 29,465
   - 📖: Mirror of https://git.ffmpeg.org/ffmpeg.git
   - 💡: `audio` `c` `ffmpeg` `fft` `hevc` `hls` `matroska` `mp4` `mpeg` `multimedia` `rtmp` `rtsp` `streaming` `video` `webm`
 
@@ -1352,7 +1362,7 @@
   - 💡: `python` `shell`
 
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr)
-  - ⭐: 38,612
+  - ⭐: 38,613
   - 📖: 📚 Collaborative cheatsheets for console commands
   - 💡: `cheatsheets` `command-line` `console` `documentation` `examples` `hacktoberfest` `help` `man-page` `manpages` `manual` `shell` `terminal` `tldr`
 
@@ -1408,7 +1418,7 @@
   - 💡: `chinese-programmers` `documentation` `pronunciation` `spelling`
 
 - [doocs/advanced-java](https://github.com/doocs/advanced-java)
-  - ⭐: 63,324
+  - ⭐: 63,325
   - 📖: 😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识
   - 💡: `advanced-java` `distributed-search-engine` `distributed-systems` `doocs` `dubbo` `elasticsearch` `eureka` `feign` `high-availability` `high-concurrency` `hystrix` `java` `message-queue` `microservices-architecture` `redis` `ribbon` `rpc` `spring-cloud` `springcloud-config` `zookeeper`
 
@@ -1423,7 +1433,7 @@
   - 💡: `debug` `spy-debugger` `wechat` `weinre`
 
 - [Avik-Jain/100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
-  - ⭐: 37,180
+  - ⭐: 37,181
   - 📖: 100 Days of ML Coding
   - 💡: `100-days-of-code-log` `100daysofcode` `deep-learning` `implementation` `infographics` `linear-algebra` `linear-regression` `logistic-regression` `machine-learning` `machine-learning-algorithms` `naive-bayes-classifier` `python` `scikit-learn` `siraj-raval` `siraj-raval-challenge` `support-vector-machines` `svm` `tutorial`
 
@@ -1575,12 +1585,12 @@
   - 💡: `gem` `icons` `jekyll` `nodejs` `octicons` `octicons-helper` `primer` `rails` `svg`
 
 - [emotion-js/emotion](https://github.com/emotion-js/emotion)
-  - ⭐: 14,887
+  - ⭐: 14,888
   - 📖: 👩‍🎤 CSS-in-JS library designed for high performance style composition
   - 💡: `babel-plugin` `css` `css-in-js` `emotion` `react` `reactjs`
 
 - [lerna/lerna](https://github.com/lerna/lerna)
-  - ⭐: 32,555
+  - ⭐: 32,554
   - 📖: :dragon: A tool for managing JavaScript projects with multiple packages.
   - 💡: `lerna` `monorepo` `npm` `package` `publishing`
 
@@ -1630,7 +1640,7 @@
   - 💡: `chart` `data-visualization` `es6` `grammar` `html5-canvas` `react`
 
 - [nhn/tui.editor](https://github.com/nhn/tui.editor)
-  - ⭐: 14,614
+  - ⭐: 14,615
   - 📖: 🍞📝 Markdown WYSIWYG Editor. GFM Standard + Chart & UML Extensible.
   - 💡: `chart` `commonmark` `documentation` `editor` `frontend` `gfm` `html` `jquery` `jquery-plugin` `markdown` `uml` `wysiwyg`
 
@@ -1639,7 +1649,7 @@
   - 📖: Microsoft Edge
 
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript)
-  - ⭐: 80,537
+  - ⭐: 80,538
   - 📖: TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
   - 💡: `javascript` `language` `typechecker` `typescript`
 
@@ -1809,7 +1819,7 @@
   - 📖: 🎨 UI controls as React Hooks to control your component state from outside
 
 - [styled-components/styled-components](https://github.com/styled-components/styled-components)
-  - ⭐: 36,530
+  - ⭐: 36,531
   - 📖: Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅
   - 💡: `css` `css-in-js` `react` `styled-components`
 
@@ -1875,12 +1885,12 @@
   - 💡: `cli` `command-line` `javascript` `kitten` `meow` `nodejs`
 
 - [flutter/flutter](https://github.com/flutter/flutter)
-  - ⭐: 139,732
+  - ⭐: 139,739
   - 📖: Flutter makes it easy and fast to build beautiful apps for mobile and beyond
   - 💡: `android` `app-framework` `dart` `dart-platform` `desktop` `fuchsia` `ios` `linux-desktop` `macos` `material-design` `mobile` `skia` `web` `web-framework` `windows`
 
 - [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code)
-  - ⭐: 95,469
+  - ⭐: 95,473
   - 📖: Short JavaScript code snippets for all your development needs
   - 💡: `awesome-list` `education` `es6-javascript` `javascript` `learn-to-code` `learning-resources` `nodejs` `programming` `snippets` `snippets-collection`
 
@@ -1927,7 +1937,7 @@
   - 📖: The official Tunnelblick website is at https://tunnelblick.net; the official Tunnelblick GitHub repository is at https://github.com/Tunnelblick
 
 - [tc39/proposals](https://github.com/tc39/proposals)
-  - ⭐: 15,352
+  - ⭐: 15,353
   - 📖: Tracking ECMAScript Proposals
   - 💡: `committee` `ecmascript` `javascript` `language` `language-design` `proposal` `spec` `specification`
 
@@ -1937,7 +1947,7 @@
   - 💡: `dos` `game`
 
 - [facebook/draft-js](https://github.com/facebook/draft-js)
-  - ⭐: 21,701
+  - ⭐: 21,700
   - 📖: A React framework for building text editors.
 
 - [frank-lam/fullstack-tutorial](https://github.com/frank-lam/fullstack-tutorial)
@@ -2039,7 +2049,7 @@
   - 📖: Check if a number is equal to 13.
 
 - [airbnb/javascript](https://github.com/airbnb/javascript)
-  - ⭐: 122,903
+  - ⭐: 122,904
   - 📖: JavaScript Style Guide
   - 💡: `arrow-functions` `es2015` `es2016` `es2017` `es2018` `es6` `eslint` `javascript` `linting` `naming-conventions` `style-guide` `style-linter` `styleguide` `tc39`
 
@@ -2196,7 +2206,7 @@
   - 💡: `alternatives` `eslint-plugin` `findindex` `hacktoberfest` `isnan` `javascript` `javascript-methods` `lastindexof` `lodash` `native` `reduceright` `underscore` `utilities`
 
 - [lodash/lodash](https://github.com/lodash/lodash)
-  - ⭐: 53,137
+  - ⭐: 53,138
   - 📖: A modern JavaScript utility library delivering modularity, performance, & extras.
   - 💡: `javascript` `lodash` `modules` `utilities`
 
