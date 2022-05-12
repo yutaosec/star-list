@@ -6974,10 +6974,32 @@ const getFullList = async (page, data) => {
   return await getFullList(p + 1, list);
 };
 
-const threeLargest = (list) => {
-  let first, second, third;
+const forEachInList = (list) => {
+  let first,
+    second,
+    third,
+    firstMin,
+    secondMin,
+    thirdMin,
+    topicMap = {};
+
   third = first = second = { stargazers_count: 0 };
+  thirdMin =
+    firstMin =
+    secondMin =
+      { stargazers_count: Number.MAX_SAFE_INTEGER };
+
   list.forEach((it) => {
+    // topics
+    it.topics.forEach((topic) => {
+      if (topicMap[topic]) {
+        topicMap[topic]++;
+      } else {
+        topicMap[topic] = 1;
+      }
+    });
+
+    // largest stars
     if (it.stargazers_count > first.stargazers_count) {
       third = second;
       second = first;
@@ -6988,26 +7010,24 @@ const threeLargest = (list) => {
     } else if (it.stargazers_count > third.stargazers_count) {
       third = it;
     }
-  });
-  return [first, second, third];
-};
 
-const threeSmallest = (list) => {
-  let first, second, third;
-  third = first = second = { stargazers_count: Number.MAX_SAFE_INTEGER };
-  list.forEach((it) => {
-    if (it.stargazers_count < first.stargazers_count) {
-      third = second;
-      second = first;
-      first = it;
-    } else if (it.stargazers_count < second.stargazers_count) {
-      third = second;
-      second = it;
-    } else if (it.stargazers_count < third.stargazers_count) {
-      third = it;
+    // smallest stars
+    if (it.stargazers_count < firstMin.stargazers_count) {
+      thirdMin = secondMin;
+      secondMin = firstMin;
+      firstMin = it;
+    } else if (it.stargazers_count < secondMin.stargazers_count) {
+      thirdMin = secondMin;
+      secondMin = it;
+    } else if (it.stargazers_count < thirdMin.stargazers_count) {
+      thirdMin = it;
     }
   });
-  return [first, second, third];
+  return [
+    [first, second, third],
+    [firstMin, secondMin, thirdMin],
+    Object.entries(topicMap).sort(([, a], [, b]) => b - a),
+  ];
 };
 
 const getDisplay = ({
@@ -7034,6 +7054,7 @@ const getDisplay = ({
 try {
   (async () => {
     const data = await getFullList(1);
+    const [largests, smallests, topTopics] = forEachInList(data);
 
     await axios.put(
       FILE_PATH,
@@ -7056,13 +7077,26 @@ try {
             `- change \`user\` \`email\` \`repo\` \`file\` in .github/workflows/main.yml to your info`,
             `- Run workflow manually to flush the data`,
             ``,
+            `## Contents:`,
+            `- [Repo with the most stars](#repo-with-the-most-stars)`,
+            `- [Repo with the least stars](#repo-with-the-least-stars)`,
+            `- [Top 20 topics](#top-20-topics)`,
+            `- [The whole list](#the-whole-list)`,
+            ``,
             `## Repo with the most stars:`,
             ``,
-            ...threeLargest(data).map(getDisplay),
+            ...largests.map(getDisplay),
             ``,
             `## Repo with the least stars:`,
             ``,
-            ...threeSmallest(data).map(getDisplay),
+            ...smallests.map(getDisplay),
+            ``,
+            `## Top 20 topics:`,
+            ``,
+            `${topTopics
+              .map(([t]) => `\`${t}\``)
+              .slice(0, 20)
+              .join(" ")}`,
             ``,
             `## The whole list: `,
             ``,
