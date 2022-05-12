@@ -18,12 +18,12 @@
   - 📖: Repo for counting stars and contributing. Press F to pay respect to glorious developers.
 
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
-  - ⭐: 200,533
+  - ⭐: 200,534
   - 📖: 😎 Awesome lists about all kinds of interesting topics
   - 💡: `awesome` `awesome-list` `lists` `resources` `unicorns`
 
 - [facebook/react](https://github.com/facebook/react)
-  - ⭐: 187,804
+  - ⭐: 187,805
   - 📖: A declarative, efficient, and flexible JavaScript library for building user interfaces.
   - 💡: `declarative` `frontend` `javascript` `library` `react` `ui`
 
@@ -45,7 +45,7 @@
 
 ## Top 20 topics:
 
-`javascript` `react` `react-native` `typescript` `hacktoberfest` `nodejs` `css` `android` `vue` `redux` `ios` `es6` `html` `frontend` `github` `shell` `reactjs` `cli` `framework` `svg`
+`javascript | 97` `react | 56` `react-native | 30` `typescript | 29` `hacktoberfest | 27` `nodejs | 27` `css | 21` `android | 17` `vue | 16` `redux | 15` `ios | 14` `es6 | 12` `html | 12` `frontend | 11` `github | 10` `shell | 10` `reactjs | 10` `cli | 9` `framework | 9` `svg | 9`
 
 ## The whole list: 
 
@@ -101,7 +101,7 @@
   - 💡: `chinese` `chinese-poetry` `ci` `json` `poetry` `tangshi`
 
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith)
-  - ⭐: 17,768
+  - ⭐: 17,769
   - 📖: Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
   - 💡: `admin-dashboard` `admin-panels` `app-builder` `automation` `crud` `custom-internal` `developer-tools` `gui` `gui-application` `internal-tools` `java` `javascript` `low-code` `low-code-framework` `react` `self-hosted` `typescript` `webdev` `webdevelopment` `workflows`
 
@@ -111,7 +111,7 @@
   - 💡: `build-system` `build-tool` `javascript` `monorepo` `typescript`
 
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid)
-  - ⭐: 47,108
+  - ⭐: 47,109
   - 📖: Generation of diagram and flowchart from text in a similar manner as markdown
 
 - [naptha/tesseract.js](https://github.com/naptha/tesseract.js)
@@ -675,7 +675,7 @@
   - 💡: `chrome` `debug` `devtools` `electron` `light` `lightproxy` `proxy` `typescript` `whistle`
 
 - [zadam/trilium](https://github.com/zadam/trilium)
-  - ⭐: 15,951
+  - ⭐: 15,952
   - 📖: Build your personal knowledge base with Trilium Notes
   - 💡: `electron` `electron-app` `knowledge-base` `knowledge-graph` `knowledge-management` `knowledge-management-graph` `local-first` `note-managment` `note-taker` `note-taking` `notebook` `notes` `notes-app` `personal-knowledge-base` `personal-wiki` `scriptable` `self-hosted` `self-hosting` `wiki`
 
@@ -1163,7 +1163,7 @@
   - 💡: `dictionary` `front-end` `russian` `translation`
 
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
-  - ⭐: 200,533
+  - ⭐: 200,534
   - 📖: 😎 Awesome lists about all kinds of interesting topics
   - 💡: `awesome` `awesome-list` `lists` `resources` `unicorns`
 
@@ -1620,7 +1620,7 @@
   - 💡: `animation` `css` `css-animations` `stylesheets`
 
 - [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby)
-  - ⭐: 52,841
+  - ⭐: 52,842
   - 📖: Build blazing fast, modern apps and websites with React
   - 💡: `blog` `compiler` `documentation-tool` `gatsby` `graphql` `react` `static-site-generator` `web-app`
 
@@ -1885,7 +1885,7 @@
   - 💡: `cli` `command-line` `javascript` `kitten` `meow` `nodejs`
 
 - [flutter/flutter](https://github.com/flutter/flutter)
-  - ⭐: 139,740
+  - ⭐: 139,741
   - 📖: Flutter makes it easy and fast to build beautiful apps for mobile and beyond
   - 💡: `android` `app-framework` `dart` `dart-platform` `desktop` `fuchsia` `ios` `linux-desktop` `macos` `material-design` `mobile` `skia` `web` `web-framework` `windows`
 
@@ -2026,7 +2026,7 @@
   - 💡: `framework` `icejs` `microfrontends` `mpa` `nodejs` `react` `react-router` `serverless` `spa` `ssr` `typescript` `vite` `webpack`
 
 - [facebook/react](https://github.com/facebook/react)
-  - ⭐: 187,804
+  - ⭐: 187,805
   - 📖: A declarative, efficient, and flexible JavaScript library for building user interfaces.
   - 💡: `declarative` `frontend` `javascript` `library` `react` `ui`
 
@@ -2216,7 +2216,7 @@
   - 💡: `bash` `ruby` `ruby-installation` `ruby-versions` `shell`
 
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)
-  - ⭐: 144,938
+  - ⭐: 144,939
   - 📖: 🙃   A delightful community-driven (with 2,000+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
   - 💡: `cli` `cli-app` `hacktoberfest` `oh-my-zsh` `oh-my-zsh-plugin` `oh-my-zsh-theme` `ohmyzsh` `plugin-framework` `plugins` `productivity` `shell` `terminal` `theme` `themes` `zsh` `zsh-configuration`
 
