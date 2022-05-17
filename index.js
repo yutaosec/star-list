@@ -4,8 +4,7 @@ const fs = require("fs");
 
 const DEV = process.env.ENV === "dev";
 const USER = core.getInput("user") || process.env.GH_USER;
-const TOPIC_SVG_PATH = "./topTopics.svg";
-const TOPIC_SVG_TEMPLATE_PATH = "./templates/topics.svg";
+const TOPIC_SVG_PATH = "topTopics.svg";
 
 const getFullList = async (page, data) => {
   const list = data || [];
@@ -136,27 +135,44 @@ const generateAndWriteSvg = (topTopics) => {
 </li>`;
   });
   return new Promise((resolve) => {
-    fs.readFile(TOPIC_SVG_TEMPLATE_PATH, (err, data) => {
+    fs.readFile("./templates/topics.svg", (err, data) => {
       if (err) throw err;
       const template = data.toString();
-      fs.writeFile(
-        TOPIC_SVG_PATH,
-        template.replace("{{ bar }}", bar).replace("{{ topics }}", topics),
-        (err) => {
-          if (err) throw err;
-          resolve();
-        }
+      resolve(
+        template.replace("{{ bar }}", bar).replace("{{ topics }}", topics)
       );
     });
   });
+};
+
+const updateFile = async (path, content) => {
+  return await axios.put(
+    path,
+    {
+      headers: {
+        Accept: "application/vnd.github.v3+json",
+      },
+      sha: (await axios.get(path)).data.sha,
+      message: "Update by script",
+      committer: {
+        name: USER,
+        email: core.getInput("email"),
+      },
+      content: Buffer.from(content).toString("base64"),
+    },
+    {
+      auth: {
+        username: USER,
+        password: core.getInput("pat"),
+      },
+    }
+  );
 };
 
 try {
   (async () => {
     const data = await getFullList(1);
     const [largests, smallests, topTopics] = forEachInList(data);
-
-    await generateAndWriteSvg(topTopics.slice(0, 20));
 
     const content = [
       `# All repos starred by ${USER}`,
@@ -183,41 +199,32 @@ try {
       ``,
       `## Top 20 topics:`,
       ``,
-      `![](${TOPIC_SVG_PATH})`,
+      `![](./${TOPIC_SVG_PATH})`,
       ``,
       `## The whole list: `,
       ``,
       ...data.map(getDisplay),
     ].join("\n");
 
+    const topicsSvgContent = await generateAndWriteSvg(topTopics.slice(0, 20));
+
     if (DEV) {
       fs.writeFile("./README.md", content, () => {
-        console.log("Content wrote in README");
+        fs.writeFile(`./${TOPIC_SVG_PATH}`, topicsSvgContent, (err) => {
+          if (err) throw err;
+          console.log("Content wrote in README");
+        });
       });
     } else {
       const REPO = core.getInput("repo");
+      await updateFile(
+        `https://api.github.com/repos/${USER}/${REPO}/contents/${TOPIC_SVG_PATH}`,
+        topicsSvgContent
+      );
       const FILE_NAME = core.getInput("file");
-      const FILE_PATH = `https://api.github.com/repos/${USER}/${REPO}/contents/${FILE_NAME}`;
-      await axios.put(
-        FILE_PATH,
-        {
-          headers: {
-            Accept: "application/vnd.github.v3+json",
-          },
-          sha: (await axios.get(FILE_PATH)).data.sha,
-          message: "Update by script",
-          committer: {
-            name: USER,
-            email: core.getInput("email"),
-          },
-          content: Buffer.from(content).toString("base64"),
-        },
-        {
-          auth: {
-            username: USER,
-            password: core.getInput("pat"),
-          },
-        }
+      await updateFile(
+        `https://api.github.com/repos/${USER}/${REPO}/contents/${FILE_NAME}`,
+        content
       );
     }
   })();
