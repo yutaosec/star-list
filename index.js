@@ -4,6 +4,8 @@ const fs = require("fs");
 
 const DEV = process.env.ENV === "dev";
 const USER = core.getInput("user") || process.env.GH_USER;
+const TOPIC_SVG_PATH = "./topTopics.svg";
+const TOPIC_SVG_TEMPLATE_PATH = "./templates/topics.svg";
 
 const getFullList = async (page, data) => {
   const list = data || [];
@@ -100,10 +102,61 @@ const getDisplay = ({
   return result.join("\n") + "\n";
 };
 
+const colors = [
+  "#73d13d",
+  "#ffc53d",
+  "#ffec3d",
+  "#bae637",
+  "#ff4d4f",
+  "#ff7a45",
+  "#9254de",
+  "#ffa940",
+  "#36cfc9",
+  "#40a9ff",
+  "#f759ab",
+  "#597ef7",
+];
+
+const generateAndWriteSvg = (topTopics) => {
+  let bar = "",
+    topics = "";
+  const total = topTopics.reduce((acc, cur) => acc + cur[1], 0);
+  topTopics.forEach(([topic, count], i) => {
+    const color = colors[i % 12];
+    const percent = ((count * 100) / total).toFixed(2);
+
+    bar += `<span style="background-color: ${color}; width: ${percent}%;" class="progress-item"></span>`;
+    topics += `
+<li>
+  <svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill: ${color};" viewBox="0 0 16 16" version="1.1" width="16" height="16">
+    <path fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path>
+  </svg>
+  <span class="topic">${topic}</span>
+  <span class="count">${count}</span>
+</li>`;
+  });
+  return new Promise((resolve) => {
+    fs.readFile(TOPIC_SVG_TEMPLATE_PATH, (err, data) => {
+      if (err) throw err;
+      const template = data.toString();
+      fs.writeFile(
+        TOPIC_SVG_PATH,
+        template.replace("{{ bar }}", bar).replace("{{ topics }}", topics),
+        (err) => {
+          if (err) throw err;
+          resolve();
+        }
+      );
+    });
+  });
+};
+
 try {
   (async () => {
     const data = await getFullList(1);
     const [largests, smallests, topTopics] = forEachInList(data);
+
+    await generateAndWriteSvg(topTopics.slice(0, 20));
 
     const content = [
       `# All repos starred by ${USER}`,
@@ -130,22 +183,7 @@ try {
       ``,
       `## Top 20 topics:`,
       ``,
-      `|topic|count|`,
-      `|---|---|`,
-      `${topTopics
-        .slice(0, 20)
-        .map(
-          ([topic, count], _i, arr) =>
-            `| \`${topic}\` | ${Array(Math.floor((count * 40) / arr[0][1]))
-              .fill("\u258A")
-              .join("")} ${count} |`
-        )
-        .join("\n")}`,
-      ``,
-      `${topTopics
-        .slice(0, 20)
-        .map(([topic, _count]) => `\`${topic}\``)
-        .join(" ")}`,
+      `![](${TOPIC_SVG_PATH})`,
       ``,
       `## The whole list: `,
       ``,
