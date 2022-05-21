@@ -79,7 +79,7 @@
   - 💡: `code-splitting` `dynamic-import` `react` `react-async-component` `react-loadable` `react-router` `server-side-rendering` `ssr` `webpack`
 
 - [typicode/lowdb](https://github.com/typicode/lowdb)
-  - ⭐: 17,663
+  - ⭐: 17,664
   - 📖: Simple to use local JSON database. Powered by plain JavaScript (supports Node, Electron and the browser)
   - 💡: `database` `electron` `embeddable` `embedded-database` `javascript` `json` `localstorage` `lodash` `nodejs` `storage`
 
@@ -1548,7 +1548,7 @@
   - 💡: `debug` `spy-debugger` `wechat` `weinre`
 
 - [Avik-Jain/100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
-  - ⭐: 37,340
+  - ⭐: 37,341
   - 📖: 100 Days of ML Coding
   - 💡: `100-days-of-code-log` `100daysofcode` `deep-learning` `implementation` `infographics` `linear-algebra` `linear-regression` `logistic-regression` `machine-learning` `machine-learning-algorithms` `naive-bayes-classifier` `python` `scikit-learn` `siraj-raval` `siraj-raval-challenge` `support-vector-machines` `svm` `tutorial`
 
