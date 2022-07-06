@@ -691,7 +691,7 @@
   - 💡: `canvas` `css` `dom` `html` `image` `javascript` `raster` `render` `svg` `vector`
 
 - [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN)
-  - ⭐: 94,090
+  - ⭐: 94,091
   - 📖: :books: 免费的计算机编程类中文书籍，欢迎投稿
   - 💡: `android` `angular` `books` `free` `ios` `javascript` `kotlin` `pdf` `programming` `python` `react` `react-native` `swift` `vue`
 
@@ -1294,7 +1294,7 @@
   - 💡: `algorithm` `algorithms` `book` `coding-interviews` `computer-science` `data-structures` `graph` `heap` `javascript` `javascript-algorithms` `search` `tree`
 
 - [521xueweihan/git-tips](https://github.com/521xueweihan/git-tips)
-  - ⭐: 13,908
+  - ⭐: 13,909
   - 📖: :trollface:Git的奇技淫巧
   - 💡: `git` `git-ssh` `stashes`
 
@@ -2081,7 +2081,7 @@
   - 💡: `android` `app-framework` `dart` `dart-platform` `desktop` `fuchsia` `ios` `linux-desktop` `macos` `material-design` `mobile` `skia` `web` `web-framework` `windows`
 
 - [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code)
-  - ⭐: 98,362
+  - ⭐: 98,363
   - 📖: Short JavaScript code snippets for all your development needs
   - 💡: `awesome-list` `education` `es6-javascript` `javascript` `learn-to-code` `learning-resources` `nodejs` `programming` `snippets` `snippets-collection`
 
