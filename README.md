@@ -705,7 +705,7 @@
   - 📖: null
 
 - [tsayen/dom-to-image](https://github.com/tsayen/dom-to-image)
-  - ⭐: 8,637
+  - ⭐: 8,638
   - 📖: Generates an image from a DOM node using HTML5 canvas
   - 💡: `canvas` `css` `dom` `html` `image` `javascript` `raster` `render` `svg` `vector`
 
@@ -1026,7 +1026,7 @@
   - 💡: `ahooks` `hooks-library` `react` `react-hooks` `umi-hooks`
 
 - [github/gitignore](https://github.com/github/gitignore)
-  - ⭐: 135,686
+  - ⭐: 135,687
   - 📖: A collection of useful .gitignore templates
   - 💡: `git` `gitignore`
 
