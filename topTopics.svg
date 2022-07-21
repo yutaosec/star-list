@@ -92,7 +92,7 @@ div.ellipsis {
         <h2>Repos Starred(By Topic)</h2>
         <div>
           <span class="progress">
-          <span style="background-color: #73d13d; width: 22.06%;" class="progress-item"></span><span style="background-color: #ffc53d; width: 13.06%;" class="progress-item"></span><span style="background-color: #ffec3d; width: 6.64%;" class="progress-item"></span><span style="background-color: #bae637; width: 6.42%;" class="progress-item"></span><span style="background-color: #ff4d4f; width: 6.42%;" class="progress-item"></span><span style="background-color: #ff7a45; width: 6.42%;" class="progress-item"></span><span style="background-color: #9254de; width: 4.71%;" class="progress-item"></span><span style="background-color: #ffa940; width: 3.85%;" class="progress-item"></span><span style="background-color: #36cfc9; width: 3.64%;" class="progress-item"></span><span style="background-color: #40a9ff; width: 3.21%;" class="progress-item"></span><span style="background-color: #f759ab; width: 3.00%;" class="progress-item"></span><span style="background-color: #597ef7; width: 2.57%;" class="progress-item"></span><span style="background-color: #73d13d; width: 2.57%;" class="progress-item"></span><span style="background-color: #ffc53d; width: 2.57%;" class="progress-item"></span><span style="background-color: #ffec3d; width: 2.36%;" class="progress-item"></span><span style="background-color: #bae637; width: 2.36%;" class="progress-item"></span><span style="background-color: #ff4d4f; width: 2.14%;" class="progress-item"></span><span style="background-color: #ff7a45; width: 2.14%;" class="progress-item"></span><span style="background-color: #9254de; width: 1.93%;" class="progress-item"></span><span style="background-color: #ffa940; width: 1.93%;" class="progress-item"></span>
+          <span style="background-color: #73d13d; width: 22.01%;" class="progress-item"></span><span style="background-color: #ffc53d; width: 13.03%;" class="progress-item"></span><span style="background-color: #ffec3d; width: 6.62%;" class="progress-item"></span><span style="background-color: #bae637; width: 6.62%;" class="progress-item"></span><span style="background-color: #ff4d4f; width: 6.41%;" class="progress-item"></span><span style="background-color: #ff7a45; width: 6.41%;" class="progress-item"></span><span style="background-color: #9254de; width: 4.70%;" class="progress-item"></span><span style="background-color: #ffa940; width: 3.85%;" class="progress-item"></span><span style="background-color: #36cfc9; width: 3.63%;" class="progress-item"></span><span style="background-color: #40a9ff; width: 3.21%;" class="progress-item"></span><span style="background-color: #f759ab; width: 2.99%;" class="progress-item"></span><span style="background-color: #597ef7; width: 2.56%;" class="progress-item"></span><span style="background-color: #73d13d; width: 2.56%;" class="progress-item"></span><span style="background-color: #ffc53d; width: 2.56%;" class="progress-item"></span><span style="background-color: #ffec3d; width: 2.35%;" class="progress-item"></span><span style="background-color: #bae637; width: 2.35%;" class="progress-item"></span><span style="background-color: #ff4d4f; width: 2.14%;" class="progress-item"></span><span style="background-color: #ff7a45; width: 2.14%;" class="progress-item"></span><span style="background-color: #9254de; width: 1.92%;" class="progress-item"></span><span style="background-color: #ffa940; width: 1.92%;" class="progress-item"></span>
           </span>
         </div>
         <ul>
@@ -115,15 +115,15 @@ div.ellipsis {
   <svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill: #ffec3d;" viewBox="0 0 16 16" version="1.1" width="16" height="16">
     <path fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path>
   </svg>
-  <span class="topic">react-native</span>
+  <span class="topic">nodejs</span>
   <span class="count">31</span>
 </li>
 <li>
   <svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill: #bae637;" viewBox="0 0 16 16" version="1.1" width="16" height="16">
     <path fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path>
   </svg>
-  <span class="topic">nodejs</span>
-  <span class="count">30</span>
+  <span class="topic">react-native</span>
+  <span class="count">31</span>
 </li>
 <li>
   <svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill: #ff4d4f;" viewBox="0 0 16 16" version="1.1" width="16" height="16">
