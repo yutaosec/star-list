@@ -230,7 +230,7 @@
   - 💡: `bash` `cli` `fish` `fzf` `git` `zsh` `zsh-plugin`
 
 - [motdotla/dotenv](https://github.com/motdotla/dotenv)
-  - ⭐: 15,685
+  - ⭐: 15,686
   - 📖: Loads environment variables from .env for nodejs projects.
 
 - [zpao/qrcode.react](https://github.com/zpao/qrcode.react)
@@ -680,7 +680,7 @@
   - 💡: `es6` `javascript` `proxy` `typescript`
 
 - [rust-lang/rustlings](https://github.com/rust-lang/rustlings)
-  - ⭐: 27,295
+  - ⭐: 27,296
   - 📖: :crab: Small exercises to get you used to reading and writing Rust code!
   - 💡: `beginner-friendly` `rust` `rustlings`
 
@@ -2019,7 +2019,7 @@
   - 📖: 🎉 整理我平时关注的前端库。
 
 - [MVIG-SJTU/AlphaPose](https://github.com/MVIG-SJTU/AlphaPose)
-  - ⭐: 6,287
+  - ⭐: 6,288
   - 📖: Real-Time and Accurate Full-Body Multi-Person Pose Estimation&Tracking System
   - 💡: `accurate` `alpha-pose` `alphapose` `crowdpose` `full-body` `gpu` `human-computer-interaction` `human-joints` `human-pose-estimation` `human-pose-tracking` `human-tracking` `keypoints` `person-pose-estimation` `pose-estimation` `posetracking` `pytorch` `realtime` `skeleton` `tracking` `whole-body`
 
@@ -2193,7 +2193,7 @@
   - 💡: `computer-science` `fullstack-developer` `interview` `java` `java-interview` `skill-tree`
 
 - [ruanyf/weekly](https://github.com/ruanyf/weekly)
-  - ⭐: 24,798
+  - ⭐: 24,799
   - 📖: 科技爱好者周刊，每周五发布
 
 - [shengxinjing/programmer-job-blacklist](https://github.com/shengxinjing/programmer-job-blacklist)
@@ -2314,7 +2314,7 @@
   - 📖: A simulation data generator
 
 - [bvaughn/react-virtualized](https://github.com/bvaughn/react-virtualized)
-  - ⭐: 23,938
+  - ⭐: 23,939
   - 📖: React components for efficiently rendering large lists and tabular data
   - 💡: `grid` `list` `listview` `performance` `react` `react-components` `tabular-data` `virtualization` `windowing`
 
