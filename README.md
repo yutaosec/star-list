@@ -1052,7 +1052,7 @@
   - 📖: Website built with Node.js and Socket.io where users race against each other to solve generated mazes. Features a single player and one-on-one mode. Uses Prim's MST Algorithm to generate the mazes.
 
 - [denoland/deno](https://github.com/denoland/deno)
-  - ⭐: 84,233
+  - ⭐: 84,234
   - 📖: A modern runtime for JavaScript and TypeScript.
   - 💡: `deno` `javascript` `rust` `typescript`
 
