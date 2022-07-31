@@ -19,7 +19,7 @@
   - 📖: Repo for counting stars and contributing. Press F to pay respect to glorious developers.
 
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
-  - ⭐: 212,505
+  - ⭐: 212,506
   - 📖: 😎 Awesome lists about all kinds of interesting topics
   - 💡: `awesome` `awesome-list` `lists` `resources` `unicorns`
 
@@ -1432,7 +1432,7 @@
   - 💡: `dictionary` `front-end` `russian` `translation`
 
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
-  - ⭐: 212,505
+  - ⭐: 212,506
   - 📖: 😎 Awesome lists about all kinds of interesting topics
   - 💡: `awesome` `awesome-list` `lists` `resources` `unicorns`
 
@@ -1914,7 +1914,7 @@
   - 📖: Microsoft Edge
 
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript)
-  - ⭐: 82,837
+  - ⭐: 82,838
   - 📖: TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
   - 💡: `javascript` `language` `typechecker` `typescript`
 
