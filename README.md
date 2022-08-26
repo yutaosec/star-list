@@ -378,12 +378,12 @@
   - 📖: Simple python script to download Bandcamp albums
 
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-  - ⭐: 45,018
+  - ⭐: 45,019
   - 📖: :zap: Dynamically generated stats for your github readmes
   - 💡: `dynamic` `hacktoberfest` `profile-readme` `readme-generator` `readme-stats` `serverless`
 
 - [ascoders/weekly](https://github.com/ascoders/weekly)
-  - ⭐: 20,787
+  - ⭐: 20,788
   - 📖: 前端精读周刊。帮你理解最前沿、实用的技术。
   - 💡: `awesome` `frontend` `weekly`
 
@@ -454,7 +454,7 @@
   - 📖: 前端知识进阶
 
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)
-  - ⭐: 32,064
+  - ⭐: 32,065
   - 📖: Virtual whiteboard for sketching hand-drawn like diagrams
   - 💡: `collaboration` `diagrams` `drawing` `hacktoberfest` `productivity` `whiteboard`
 
@@ -1179,7 +1179,7 @@
   - 💡: `deno` `javascript` `rust` `typescript`
 
 - [alibaba/hooks](https://github.com/alibaba/hooks)
-  - ⭐: 10,182
+  - ⭐: 10,183
   - 📖: A high-quality & reliable React Hooks library.
   - 💡: `ahooks` `hooks-library` `react` `react-hooks` `umi-hooks`
 
@@ -1685,7 +1685,7 @@
   - 📖: Progress indicators and spinners for React Native
 
 - [FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg)
-  - ⭐: 31,340
+  - ⭐: 31,341
   - 📖: Mirror of https://git.ffmpeg.org/ffmpeg.git
   - 💡: `audio` `c` `ffmpeg` `fft` `hevc` `hls` `matroska` `mp4` `mpeg` `multimedia` `rtmp` `rtsp` `streaming` `video` `webm`
 
@@ -2079,7 +2079,7 @@
   - 💡: `angular` `angular-components` `material` `material-design`
 
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub)
-  - ⭐: 20,985
+  - ⭐: 20,986
   - 📖: 🍰 Everything is RSSible
   - 💡: `bilibili` `disqus` `douban` `douyin` `dribbble` `instagram` `iqiyi` `jike` `juejin` `pixiv` `rss` `spotify` `telegram` `tiktok` `twitter` `v2ex` `wechat` `weibo` `youtube` `zhihu`
 
