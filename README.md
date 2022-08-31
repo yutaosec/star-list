@@ -180,7 +180,7 @@
   - 📖: null
 
 - [oven-sh/bun](https://github.com/oven-sh/bun)
-  - ⭐: 33,181
+  - ⭐: 33,182
   - 📖: Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one.
   - 💡: `bun` `bundler` `javascript` `javascriptcore` `jsx` `nodejs` `npm` `react` `transpiler` `typescript` `zig` `ziglang`
 
