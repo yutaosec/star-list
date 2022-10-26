@@ -556,7 +556,7 @@
   - 💡: `admin-dashboard` `admin-panels` `app-builder` `automation` `crud` `custom-internal` `developer-tools` `gui` `gui-application` `hacktoberfest` `internal-tools` `java` `javascript` `low-code` `low-code-framework` `react` `self-hosted` `typescript` `webdevelopment` `workflows`
 
 - [vercel/turbo](https://github.com/vercel/turbo)
-  - ⭐: 11,126
+  - ⭐: 11,128
   - 📖: Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust.
   - 💡: `build-system` `build-tool` `bundler` `javascript` `monorepo` `turbopack` `typescript` `webpack`
 
@@ -598,7 +598,7 @@
   - 📖: Native access to MacOS FSEvents in Node.js
 
 - [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook)
-  - ⭐: 47,903
+  - ⭐: 47,904
   - 📖: 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only).
   - 💡: `chinese` `cookbook` `cooking` `dishes` `recipes`
 
