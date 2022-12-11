@@ -19,7 +19,7 @@
   - 📖: Repo for counting stars and contributing. Press F to pay respect to glorious developers.
 
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
-  - ⭐: 229,360
+  - ⭐: 229,361
   - 📖: 😎 Awesome lists about all kinds of interesting topics
   - 💡: `awesome` `awesome-list` `lists` `resources` `unicorns`
 
@@ -51,7 +51,7 @@
 ## The whole list: 
 
 - [framer/motion](https://github.com/framer/motion)
-  - ⭐: 16,830
+  - ⭐: 16,831
   - 📖: Open source, production-ready animation and gesture library for React
 
 - [GoogleChromeLabs/quicklink](https://github.com/GoogleChromeLabs/quicklink)
@@ -1633,7 +1633,7 @@
   - 💡: `dictionary` `front-end` `russian` `translation`
 
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
-  - ⭐: 229,360
+  - ⭐: 229,361
   - 📖: 😎 Awesome lists about all kinds of interesting topics
   - 💡: `awesome` `awesome-list` `lists` `resources` `unicorns`
 
@@ -2516,7 +2516,7 @@
   - 📖: Check if a number is equal to 13.
 
 - [airbnb/javascript](https://github.com/airbnb/javascript)
-  - ⭐: 129,524
+  - ⭐: 129,525
   - 📖: JavaScript Style Guide
   - 💡: `arrow-functions` `es2015` `es2016` `es2017` `es2018` `es6` `eslint` `javascript` `linting` `naming-conventions` `style-guide` `style-linter` `styleguide` `tc39`
 
