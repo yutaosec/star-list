@@ -74,7 +74,7 @@
   - 💡: `ant` `ant-design` `chart` `form` `formrender` `javascript` `json-schema` `list` `react` `table` `typescript` `webpack` `widget`
 
 - [tw93/Pake](https://github.com/tw93/Pake)
-  - ⭐: 6,760
+  - ⭐: 6,761
   - 📖: 🤱🏻 Simply make any web page a desktop application using Rust.  🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App
   - 💡: `high-performance` `linux-desktop` `mac` `mac-desktop` `no-electron` `productivity` `rust` `tauri` `webview` `windows-desktop` `wry`
 
