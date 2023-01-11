@@ -338,7 +338,7 @@
   - 💡: `browser` `json` `nodejs` `search` `web-worker` `xpath` `xpath-queries` `xslt`
 
 - [rome/tools](https://github.com/rome/tools)
-  - ⭐: 22,130
+  - ⭐: 22,131
   - 📖: Unified developer tools for JavaScript, TypeScript, and the web
   - 💡: `formatter` `javascript` `linter` `toolchain` `typescript`
 
