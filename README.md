@@ -1213,7 +1213,7 @@
   - 💡: `console` `debugger` `developer-tools` `eruda` `mobile`
 
 - [sveltejs/svelte](https://github.com/sveltejs/svelte)
-  - ⭐: 65,983
+  - ⭐: 65,984
   - 📖: Cybernetically enhanced web apps
   - 💡: `compiler` `template` `ui`
 
@@ -2063,7 +2063,7 @@
   - 💡: `content-moderation` `deep-learning` `machine-learning` `nsfw` `nsfw-classifier` `pornography`
 
 - [mui/material-ui](https://github.com/mui/material-ui)
-  - ⭐: 84,894
+  - ⭐: 84,895
   - 📖: MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
   - 💡: `design-systems` `hacktoberfest` `javascript` `material-design` `react` `react-components` `typescript`
 
