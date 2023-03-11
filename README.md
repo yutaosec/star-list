@@ -722,7 +722,7 @@
   - 💡: `163music` `cli` `cli-tools` `command-line` `command-line-tool` `free` `free-download` `music` `music-download` `music-downloader` `netease-cloud-music` `netease-music` `node-tool` `nodejs`
 
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)
-  - ⭐: 42,515
+  - ⭐: 42,514
   - 📖: A youtube-dl fork with additional features and fixes
   - 💡: `python` `sponskrub` `sponsorblock` `video-downloader` `youtube-dl` `youtube-dlc` `youtube-downloader` `yt-dlp`
 
