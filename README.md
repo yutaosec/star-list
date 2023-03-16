@@ -2793,7 +2793,7 @@
   - 📖: 💡
 
 - [umijs/umi](https://github.com/umijs/umi)
-  - ⭐: 13,775
+  - ⭐: 13,776
   - 📖: A framework in react community ✨
   - 💡: `react` `react-framework` `umi` `umijs`
 
