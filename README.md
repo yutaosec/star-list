@@ -19,7 +19,7 @@
   - 📖: Repo for counting stars and contributing. Press F to pay respect to glorious developers.
 
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
-  - ⭐: 244,541
+  - ⭐: 244,543
   - 📖: 😎 Awesome lists about all kinds of interesting topics
   - 💡: `awesome` `awesome-list` `lists` `resources` `unicorns`
 
@@ -56,7 +56,7 @@
   - 💡: `blog` `nextjs` `notion` `react` `tailwindcss` `vercel`
 
 - [ginuerzh/gost](https://github.com/ginuerzh/gost)
-  - ⭐: 11,583
+  - ⭐: 11,586
   - 📖: GO Simple Tunnel - a simple tunnel written in golang
   - 💡: `dns` `go` `golang` `http2` `kcp` `obfs4` `quic` `shadowsocks` `sni` `socks5` `ssh` `tls` `tunnel` `tuntap` `udp`
 
@@ -71,7 +71,7 @@
   - 💡: `hotkeys` `lightweight` `macos` `productivity` `shortcut-manager` `shortcuts`
 
 - [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack)
-  - ⭐: 3,396
+  - ⭐: 3,398
   - 📖: A fast Rust-based web bundler 🦀️
   - 💡: `build-tool` `bundler` `compiler` `esm` `javascript` `jsx` `loaders` `rust` `typescript` `web` `web-performance`
 
@@ -103,7 +103,7 @@
   - 💡: `code-quality` `linter` `linting` `static-analysis` `swift`
 
 - [p0deje/Maccy](https://github.com/p0deje/Maccy)
-  - ⭐: 7,177
+  - ⭐: 7,178
   - 📖: Lightweight clipboard manager for macOS
   - 💡: `clipboard-manager` `maccy` `macos`
 
@@ -113,7 +113,7 @@
   - 💡: `advanced` `beginner` `book` `book-series` `code-editor` `editor` `education` `intermediate` `learning` `learning-to-code` `linux` `programming` `training-materials` `training-providers` `tutorial` `unix` `vim`
 
 - [golang/go](https://github.com/golang/go)
-  - ⭐: 109,424
+  - ⭐: 109,425
   - 📖: The Go programming language
   - 💡: `go` `golang` `language` `programming-language`
 
@@ -142,7 +142,7 @@
   - 💡: `blazing-fast` `blazingly-fast` `ciscringe` `configurable` `fast` `hello-world` `helloworld` `memory-safety` `minimal` `rust` `rust-crate` `rust-lang` `rust-library` `rustisrewrite` `rustlang` `speed`
 
 - [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion)
-  - ⭐: 46,181
+  - ⭐: 46,185
   - 📖: A latent text-to-image diffusion model
 
 - [rjsf-team/react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form)
@@ -175,7 +175,7 @@
   - 💡: `autocomplete` `bash` `cli` `fig` `fish` `hacktoberfest` `iterm2` `macos` `shell` `terminal` `typescript` `zsh`
 
 - [warpdotdev/Warp](https://github.com/warpdotdev/Warp)
-  - ⭐: 11,833
+  - ⭐: 11,834
   - 📖: Warp is a blazingly-fast modern Rust based GPU-accelerated terminal built to make you and your team more productive.
   - 💡: `bash` `linux` `macos` `rust` `shell` `terminal` `wasm` `zsh`
 
@@ -239,7 +239,7 @@
   - 💡: `api` `douban` `douban-book` `doubanbook` `isbn`
 
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
-  - ⭐: 60,697
+  - ⭐: 60,699
   - 📖: Build smaller, faster, and more secure desktop applications with a web frontend.
   - 💡: `hacktoberfest` `high-performance` `rust` `webview` `works-with-clojurescript` `works-with-construct` `works-with-elm` `works-with-flutter` `works-with-gatsby` `works-with-mint` `works-with-phaser` `works-with-quasar` `works-with-react` `works-with-reason` `works-with-svelte` `works-with-vue` `works-with-yew`
 
@@ -262,7 +262,7 @@
   - 📖: null
 
 - [tailwindlabs/headlessui](https://github.com/tailwindlabs/headlessui)
-  - ⭐: 19,523
+  - ⭐: 19,524
   - 📖: Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
   - 💡: `a11y` `accessibility` `components` `headless-ui` `headlessui` `react` `tailwindcss` `vue`
 
@@ -326,7 +326,7 @@
   - 📖: My blog archive
 
 - [pingcap/tidb](https://github.com/pingcap/tidb)
-  - ⭐: 33,616
+  - ⭐: 33,617
   - 📖: TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try AI-powered Chat2Query free at : https://tidbcloud.com/free-trial
   - 💡: `cloud-native` `database` `distributed-database` `distributed-transactions` `go` `hacktoberfest` `htap` `mysql` `mysql-compatibility` `scale` `serverless` `sql` `tidb`
 
@@ -381,7 +381,7 @@
   - 💡: `ecmascript6` `hacktoberfest` `hls` `hlsjs` `html5` `http-live-streaming` `javascript` `mediasource` `mediasource-extensions` `native-hls` `playback` `player` `stream` `streaming` `video` `video-streaming`
 
 - [samber/lo](https://github.com/samber/lo)
-  - ⭐: 10,461
+  - ⭐: 10,462
   - 📖: 💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
   - 💡: `constraints` `contract` `filterable` `foldable` `functional` `generics` `go` `golang` `lodash` `programming` `typesafe`
 
@@ -437,7 +437,7 @@
   - 💡: `assertion-library` `assertions` `ava` `chai` `enzyme` `jest` `mocha` `react` `react-components` `test` `test-runner` `test-runners` `testing` `traversal`
 
 - [pillarjs/path-to-regexp](https://github.com/pillarjs/path-to-regexp)
-  - ⭐: 7,433
+  - ⭐: 7,434
   - 📖: Turn a path string such as `/user/:name` into a regular expression
   - 💡: `expressjs` `nodejs` `path-to-regexp` `router`
 
@@ -465,7 +465,7 @@
   - 📖: 骚话生成器生成器
 
 - [pppscn/SmsForwarder](https://github.com/pppscn/SmsForwarder)
-  - ⭐: 8,178
+  - ⭐: 8,179
   - 📖: 短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。（V3.0 新增）PS.这个APK主要是学习与自用，如有BUG请提ISSUE，同时欢迎大家提PR指正
   - 💡: `android` `api` `app` `bark` `call` `chatgpt` `dingding` `forward` `mqtt` `pushdear` `pushplus` `serverchan` `sms` `smtp` `telegram` `webhook` `wechatapp`
 
@@ -484,7 +484,7 @@
   - 📖: null
 
 - [oven-sh/bun](https://github.com/oven-sh/bun)
-  - ⭐: 40,033
+  - ⭐: 40,035
   - 📖: Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one.
   - 💡: `bun` `bundler` `javascript` `javascriptcore` `jsx` `nodejs` `npm` `react` `transpiler` `typescript` `zig` `ziglang`
 
@@ -494,7 +494,7 @@
   - 💡: `antv` `dag` `diagram` `diagramming` `erd` `erdiagram` `flowchart` `graph` `graph-editor` `javascript` `javascript-diagramming-library` `svg` `typescript` `uml-diagram`
 
 - [Tencent/lemon-cleaner](https://github.com/Tencent/lemon-cleaner)
-  - ⭐: 4,561
+  - ⭐: 4,562
   - 📖: 腾讯柠檬清理是针对macOS系统专属制定的清理工具。主要功能包括重复文件和相似照片的识别、软件的定制化垃圾扫描、可视化的全盘空间分析、内存释放、浏览器隐私清理以及设备实时状态的监控等。重点聚焦清理功能，对上百款软件提供定制化的清理方案，提供专业的清理建议，帮助用户轻松完成一键式清理。
 
 - [bhousel/node-diff3](https://github.com/bhousel/node-diff3)
@@ -534,7 +534,7 @@
   - 📖: match command-line arguments to their help text
 
 - [codezjx/netease-cloud-music-dl](https://github.com/codezjx/netease-cloud-music-dl)
-  - ⭐: 430
+  - ⭐: 431
   - 📖: Netease cloud music song downloader, with full ID3 metadata, eg: front cover image, artist name, album name, song title and so on.
   - 💡: `cloud-music` `downloader` `id3-tags` `netease`
 
@@ -668,7 +668,7 @@
   - 💡: `database` `electron` `embeddable` `embedded-database` `javascript` `json` `localstorage` `lodash` `nodejs` `storage`
 
 - [typicode/json-server](https://github.com/typicode/json-server)
-  - ⭐: 65,986
+  - ⭐: 65,987
   - 📖: Get a full fake REST API with zero coding in less than 30 seconds (seriously)
 
 - [typicode/husky](https://github.com/typicode/husky)
@@ -738,7 +738,7 @@
   - 💡: `163music` `cli` `cli-tools` `command-line` `command-line-tool` `free` `free-download` `music` `music-download` `music-downloader` `netease-cloud-music` `netease-music` `node-tool` `nodejs`
 
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)
-  - ⭐: 43,159
+  - ⭐: 43,161
   - 📖: A youtube-dl fork with additional features and fixes
   - 💡: `python` `sponskrub` `sponsorblock` `video-downloader` `youtube-dl` `youtube-dlc` `youtube-downloader` `yt-dlp`
 
@@ -785,7 +785,7 @@
   - 📖: 前端知识进阶
 
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)
-  - ⭐: 44,121
+  - ⭐: 44,124
   - 📖: Virtual whiteboard for sketching hand-drawn like diagrams
   - 💡: `collaboration` `diagrams` `drawing` `hacktoberfest` `productivity` `whiteboard`
 
@@ -809,7 +809,7 @@
   - 💡: `admin-dashboard` `admin-panels` `app-builder` `automation` `crud` `custom-internal` `developer-tools` `gui` `gui-application` `hacktoberfest` `internal-tools` `java` `javascript` `low-code` `low-code-framework` `react` `self-hosted` `typescript` `webdevelopment` `workflows`
 
 - [vercel/turbo](https://github.com/vercel/turbo)
-  - ⭐: 20,255
+  - ⭐: 20,257
   - 📖: Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
   - 💡: `build-system` `build-tool` `bundler` `javascript` `monorepo` `turbopack` `typescript` `webpack`
 
@@ -851,7 +851,7 @@
   - 📖: Native access to MacOS FSEvents in Node.js
 
 - [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook)
-  - ⭐: 52,150
+  - ⭐: 52,153
   - 📖: 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only).
   - 💡: `chinese` `cookbook` `cooking` `dishes` `recipes`
 
@@ -865,7 +865,7 @@
   - 📖: get colors in your node.js console
 
 - [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype)
-  - ⭐: 9,726
+  - ⭐: 9,727
   - 📖: The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed.
   - 💡: `monkeytype` `typingtest`
 
@@ -984,7 +984,7 @@
   - 💡: `watermark` `watermark-dom`
 
 - [utterance/utterances](https://github.com/utterance/utterances)
-  - ⭐: 7,679
+  - ⭐: 7,680
   - 📖: :crystal_ball: A lightweight comments widget built on GitHub issues
   - 💡: `blog` `comments` `comments-widget` `github` `utterances`
 
@@ -1251,7 +1251,7 @@
   - 💡: `console` `debugger` `developer-tools` `eruda` `mobile`
 
 - [sveltejs/svelte](https://github.com/sveltejs/svelte)
-  - ⭐: 66,368
+  - ⭐: 66,369
   - 📖: Cybernetically enhanced web apps
   - 💡: `compiler` `template` `ui`
 
@@ -1304,7 +1304,7 @@
   - 📖: 可伸缩布局方案
 
 - [youzan/vant](https://github.com/youzan/vant)
-  - ⭐: 21,018
+  - ⭐: 21,019
   - 📖: A lightweight, customizable Vue UI library for mobile web apps.
   - 💡: `components` `mobile` `ui-kit` `ui-library` `vant` `vue` `vue3`
 
@@ -1333,7 +1333,7 @@
   - 💡: `openapi` `openapi3` `openapi3-1` `swagger` `typescript`
 
 - [solidjs/solid](https://github.com/solidjs/solid)
-  - ⭐: 26,536
+  - ⭐: 26,538
   - 📖: A declarative, efficient, and flexible JavaScript library for building user interfaces.
   - 💡: `declarative` `fine-grained` `javascript` `jsx` `performance` `proxies` `reactive` `solid`
 
@@ -1395,7 +1395,7 @@
   - 💡: `alibabacloud` `aliyun` `function-compute` `serverless`
 
 - [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm)
-  - ⭐: 114,704
+  - ⭐: 114,705
   - 📖: 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why. 
   - 💡: `algorithms` `computer-science` `data-structures` `dynamic-programming` `dynamic-programming-algorithm` `interview-questions` `kmp` `leetcode`
 
@@ -1545,11 +1545,11 @@
   - 📖: 吃透本仓库，变身vue项目单体测试大神
 
 - [jimp-dev/jimp](https://github.com/jimp-dev/jimp)
-  - ⭐: 12,534
+  - ⭐: 12,535
   - 📖: An image processing library written entirely in JavaScript for Node, with zero external or native dependencies.
 
 - [brunosimon/folio-2019](https://github.com/brunosimon/folio-2019)
-  - ⭐: 3,544
+  - ⭐: 3,546
   - 📖: null
 
 - [modood/Administrative-divisions-of-China](https://github.com/modood/Administrative-divisions-of-China)
@@ -1681,7 +1681,7 @@
   - 💡: `android` `app` `dart` `flutter` `ios` `mobile` `wanandroid`
 
 - [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes)
-  - ⭐: 162,547
+  - ⭐: 162,548
   - 📖: :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
   - 💡: `algorithm` `computer-science` `cpp` `interview` `java` `leetcode` `python` `system-design`
 
@@ -1735,7 +1735,7 @@
   - 📖: Style Half of a Character by CSS
 
 - [microsoft/terminal](https://github.com/microsoft/terminal)
-  - ⭐: 88,008
+  - ⭐: 88,009
   - 📖: The new Windows Terminal and the original Windows console host, all in the same place!
   - 💡: `cmd` `command-line` `console` `terminal` `windows-console` `windows-terminal` `wsl`
 
@@ -1836,12 +1836,12 @@
   - 📖: 贵校课程资料民间整理
 
 - [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub)
-  - ⭐: 66,153
+  - ⭐: 66,156
   - 📖: :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
   - 💡: `awesome` `github` `hellogithub` `python`
 
 - [facebook/docusaurus](https://github.com/facebook/docusaurus)
-  - ⭐: 42,986
+  - ⭐: 42,987
   - 📖: Easy to maintain open source documentation websites.
   - 💡: `documentation` `hacktoberfest` `javascript` `open-source` `react` `website`
 
@@ -1859,7 +1859,7 @@
   - 📖: 中文技术文档的写作规范
 
 - [streamich/react-use](https://github.com/streamich/react-use)
-  - ⭐: 36,076
+  - ⭐: 36,077
   - 📖: React Hooks — 👍
 
 - [web-standards-ru/dictionary](https://github.com/web-standards-ru/dictionary)
@@ -1868,7 +1868,7 @@
   - 💡: `dictionary` `front-end` `russian` `translation`
 
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
-  - ⭐: 244,541
+  - ⭐: 244,543
   - 📖: 😎 Awesome lists about all kinds of interesting topics
   - 💡: `awesome` `awesome-list` `lists` `resources` `unicorns`
 
@@ -1901,7 +1901,7 @@
   - 💡: `antd` `react` `react-components`
 
 - [picturepan2/instagram.css](https://github.com/picturepan2/instagram.css)
-  - ⭐: 3,989
+  - ⭐: 3,988
   - 📖: Instagram.css - Complete set of Instagram filters in pure CSS
 
 - [schmich/instascan](https://github.com/schmich/instascan)
@@ -1995,7 +1995,7 @@
   - 💡: `beautiful` `carbon` `education` `github-gist` `javascript` `presentation` `sharing` `snippets` `tweet`
 
 - [remoteinterview/zero](https://github.com/remoteinterview/zero)
-  - ⭐: 5,816
+  - ⭐: 5,817
   - 📖: Zero is a web server to simplify web development.
   - 💡: `hmr` `javascript` `nodejs` `react` `ssr` `typescript` `vue` `vuejs` `zero`
 
@@ -2018,7 +2018,7 @@
   - 📖: Progress indicators and spinners for React Native
 
 - [FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg)
-  - ⭐: 34,879
+  - ⭐: 34,880
   - 📖: Mirror of https://git.ffmpeg.org/ffmpeg.git
   - 💡: `audio` `c` `ffmpeg` `fft` `hevc` `hls` `matroska` `mp4` `mpeg` `multimedia` `rtmp` `rtsp` `streaming` `video` `webm`
 
@@ -2038,7 +2038,7 @@
   - 💡: `shadowsocks` `shadowsocks-libev` `shadowsocks-server` `shadowsocksr` `ssr`
 
 - [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl)
-  - ⭐: 118,818
+  - ⭐: 118,816
   - 📖: Command-line program to download videos from YouTube.com and other video sites
 
 - [flutter/plugins](https://github.com/flutter/plugins)
@@ -2062,7 +2062,7 @@
   - 💡: `browser-extension` `chrome-extension` `firefox-addon` `github` `github-extension` `safari-extension` `userstyle`
 
 - [nvbn/thefuck](https://github.com/nvbn/thefuck)
-  - ⭐: 76,344
+  - ⭐: 76,346
   - 📖: Magnificent app which corrects your previous console command.
   - 💡: `python` `shell`
 
@@ -2077,7 +2077,7 @@
   - 💡: `compiler` `interpreter` `javascript` `javascript-engine` `virtual-machine`
 
 - [littlecodersh/ItChat](https://github.com/littlecodersh/ItChat)
-  - ⭐: 23,325
+  - ⭐: 23,326
   - 📖: A complete and graceful API for Wechat. 微信个人号接口、微信机器人及命令行微信，三十行即可自定义个人号机器人。
   - 💡: `api` `itchat` `robot` `wechat`
 
@@ -2125,12 +2125,12 @@
   - 💡: `computer-architecture` `emulation`
 
 - [wuchangming/spy-debugger](https://github.com/wuchangming/spy-debugger)
-  - ⭐: 7,196
+  - ⭐: 7,197
   - 📖: 微信调试，各种WebView样式调试、手机浏览器的页面真机调试。便捷的远程调试手机页面、抓包工具，支持：HTTP/HTTPS，无需USB连接设备。
   - 💡: `debug` `spy-debugger` `wechat` `weinre`
 
 - [Avik-Jain/100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
-  - ⭐: 40,379
+  - ⭐: 40,380
   - 📖: 100 Days of ML Coding
   - 💡: `100-days-of-code-log` `100daysofcode` `deep-learning` `implementation` `infographics` `linear-algebra` `linear-regression` `logistic-regression` `machine-learning` `machine-learning-algorithms` `naive-bayes-classifier` `python` `scikit-learn` `siraj-raval` `siraj-raval-challenge` `support-vector-machines` `svm` `tutorial`
 
@@ -2347,7 +2347,7 @@
   - 📖: Microsoft Edge
 
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript)
-  - ⭐: 89,495
+  - ⭐: 89,496
   - 📖: TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
   - 💡: `javascript` `language` `typechecker` `typescript`
 
@@ -2564,12 +2564,12 @@
   - 💡: `redux`
 
 - [gregberge/svgr](https://github.com/gregberge/svgr)
-  - ⭐: 9,472
+  - ⭐: 9,473
   - 📖: Transform SVGs into React components 🦁
   - 💡: `inline-svg` `loader` `react` `react-native` `react-svg` `react-svg-creator` `react-svg-loader` `svg` `svg-react` `svg-to-react` `svg2react` `svgo` `webpack` `webpack-loader`
 
 - [NervJS/taro](https://github.com/NervJS/taro)
-  - ⭐: 32,518
+  - ⭐: 32,517
   - 📖: 开放式跨端跨框架解决方案，支持使用 React/Vue/Nerv 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用。  https://taro.zone/
   - 💡: `javascript` `jquery` `nerv` `nervjs` `react` `react-native` `reactjs` `taro` `typescript` `vue` `vue3` `wechat` `wechat-mini-program` `weixin` `wxapp`
 
@@ -2583,7 +2583,7 @@
   - 💡: `cli` `command-line` `javascript` `kitten` `meow` `nodejs`
 
 - [flutter/flutter](https://github.com/flutter/flutter)
-  - ⭐: 151,270
+  - ⭐: 151,269
   - 📖: Flutter makes it easy and fast to build beautiful apps for mobile and beyond
   - 💡: `android` `app-framework` `cross-platform` `dart` `dart-platform` `desktop` `flutter` `flutter-package` `fuchsia` `ios` `linux-desktop` `macos` `material-design` `mobile` `mobile-development` `skia` `web` `web-framework` `windows`
 
@@ -2748,7 +2748,7 @@
   - 📖: Check if a number is equal to 13.
 
 - [airbnb/javascript](https://github.com/airbnb/javascript)
-  - ⭐: 132,268
+  - ⭐: 132,269
   - 📖: JavaScript Style Guide
   - 💡: `arrow-functions` `es2015` `es2016` `es2017` `es2018` `es6` `eslint` `javascript` `linting` `naming-conventions` `style-guide` `style-linter` `styleguide` `tc39`
 
@@ -2762,7 +2762,7 @@
   - 💡: `jsonp` `jsonp-request` `polyfill`
 
 - [ajv-validator/ajv](https://github.com/ajv-validator/ajv)
-  - ⭐: 12,291
+  - ⭐: 12,292
   - 📖: The fastest JSON schema Validator. Supports JSON Schema draft-04/06/07/2019-09/2020-12 and JSON Type Definition (RFC8927)
   - 💡: `ajv` `json-schema` `validator`
 
@@ -2790,12 +2790,12 @@
   - 📖: Runtime type checking for React props and similar objects
 
 - [microsoft/vscode](https://github.com/microsoft/vscode)
-  - ⭐: 143,797
+  - ⭐: 143,798
   - 📖: Visual Studio Code
   - 💡: `editor` `electron` `hacktoberfest` `microsoft` `typescript` `visual-studio-code`
 
 - [iawia002/lux](https://github.com/iawia002/lux)
-  - ⭐: 20,396
+  - ⭐: 20,397
   - 📖: 👾 Fast and simple video download library and CLI tool written in Go
   - 💡: `bilibili` `crawler` `download` `downloader` `go` `golang` `iqiyi` `qq` `scraper` `tumblr` `video` `youku` `youtube`
 
@@ -2930,7 +2930,7 @@
   - 📖: Slim templates generator for Rails
 
 - [rails/rails](https://github.com/rails/rails)
-  - ⭐: 52,500
+  - ⭐: 52,502
   - 📖: Ruby on Rails
   - 💡: `activejob` `activerecord` `framework` `html` `mvc` `rails` `ruby`
 
