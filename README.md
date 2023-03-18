@@ -28,19 +28,6 @@
   - 💡: `declarative` `frontend` `javascript` `library` `react` `ui`
 
 
-- [TimorCookie/jlgl-cli](https://github.com/TimorCookie/jlgl-cli)
-  - ⭐: 1
-  - 📖: node工程化相关实践
-
-- [ra1nj/I18nTool](https://github.com/ra1nj/I18nTool)
-  - ⭐: 3
-  - 📖: An i18n Tool for Intellij IDEA
-
-- [Cygra/ios-app-privacy-report-reader](https://github.com/Cygra/ios-app-privacy-report-reader)
-  - ⭐: 5
-  - 📖: Load, analyze and display your iOS15 App Privacy Report locally.
-
-
 ## Top 20 topics:
 
 ![](./topTopics.svg)
@@ -110,7 +97,7 @@
   - 💡: `advanced` `beginner` `book` `book-series` `code-editor` `editor` `education` `intermediate` `learning` `learning-to-code` `linux` `programming` `training-materials` `training-providers` `tutorial` `unix` `vim`
 
 - [golang/go](https://github.com/golang/go)
-  - ⭐: 109,425
+  - ⭐: 109,426
   - 📖: The Go programming language
   - 💡: `go` `golang` `language` `programming-language`
 
@@ -954,7 +941,7 @@
   - 💡: `immutable` `immutables` `reducer` `redux` `state-tree`
 
 - [yichengchen/clashX](https://github.com/yichengchen/clashX)
-  - ⭐: 23,522
+  - ⭐: 23,523
   - 📖: null
 
 - [Advanced-Frontend/Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question)
@@ -2377,7 +2364,7 @@
   - 💡: `chart` `charts` `mpandroidchart` `react-native`
 
 - [spaceship-prompt/spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt)
-  - ⭐: 18,092
+  - ⭐: 18,091
   - 📖: :rocket::star: Minimalistic, powerful and extremely customizable Zsh prompt
   - 💡: `oh-my-zsh` `prompt` `shell` `shell-prompt` `shell-theme` `spaceship` `terminal` `zsh` `zsh-theme` `zsh-users`
 
@@ -2849,7 +2836,7 @@
   - 💡: `cookie` `javascript`
 
 - [jashkenas/underscore](https://github.com/jashkenas/underscore)
-  - ⭐: 26,897
+  - ⭐: 26,898
   - 📖: JavaScript's utility _ belt
 
 - [moment/moment](https://github.com/moment/moment)
