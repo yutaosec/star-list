@@ -1251,7 +1251,7 @@
   - 💡: `console` `debugger` `developer-tools` `eruda` `mobile`
 
 - [sveltejs/svelte](https://github.com/sveltejs/svelte)
-  - ⭐: 66,369
+  - ⭐: 66,370
   - 📖: Cybernetically enhanced web apps
   - 💡: `compiler` `template` `ui`
 
