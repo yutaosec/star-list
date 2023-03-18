@@ -8,7 +8,6 @@
 
 ## Contents:
 - [Repo with the most stars](#repo-with-the-most-stars)
-- [Repo with the least stars](#repo-with-the-least-stars)
 - [Top 20 topics](#top-20-topics)
 - [The whole list](#the-whole-list)
 
@@ -19,7 +18,7 @@
   - 📖: Repo for counting stars and contributing. Press F to pay respect to glorious developers.
 
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
-  - ⭐: 244,543
+  - ⭐: 244,542
   - 📖: 😎 Awesome lists about all kinds of interesting topics
   - 💡: `awesome` `awesome-list` `lists` `resources` `unicorns`
 
@@ -28,8 +27,6 @@
   - 📖: A declarative, efficient, and flexible JavaScript library for building user interfaces.
   - 💡: `declarative` `frontend` `javascript` `library` `react` `ui`
 
-
-## Repo with the least stars:
 
 - [TimorCookie/jlgl-cli](https://github.com/TimorCookie/jlgl-cli)
   - ⭐: 1
@@ -51,12 +48,12 @@
 ## The whole list: 
 
 - [tangly1024/NotionNext](https://github.com/tangly1024/NotionNext)
-  - ⭐: 1,680
+  - ⭐: 1,681
   - 📖: 一个使用 NextJS + Notion API 实现的，部署在 Vercel 上的静态博客系统。为Notion和所有创作者设计。
   - 💡: `blog` `nextjs` `notion` `react` `tailwindcss` `vercel`
 
 - [ginuerzh/gost](https://github.com/ginuerzh/gost)
-  - ⭐: 11,586
+  - ⭐: 11,587
   - 📖: GO Simple Tunnel - a simple tunnel written in golang
   - 💡: `dns` `go` `golang` `http2` `kcp` `obfs4` `quic` `shadowsocks` `sni` `socks5` `ssh` `tls` `tunnel` `tuntap` `udp`
 
@@ -195,7 +192,7 @@
   - 💡: `bittorrent` `dash` `hls` `hlsjs` `media-playback` `mediastream` `p2p` `p2p-media-loader` `p2p-network` `peer` `player` `shaka-player` `video` `webrtc` `webtorrent`
 
 - [atelier-anchor/smiley-sans](https://github.com/atelier-anchor/smiley-sans)
-  - ⭐: 10,629
+  - ⭐: 10,628
   - 📖: 得意黑 Smiley Sans：一款在人文观感和几何特征中寻找平衡的中文黑体
   - 💡: `cjk` `font` `typeface`
 
@@ -308,7 +305,7 @@
   - 💡: `builder` `designable` `designer` `editor` `form` `react`
 
 - [sindresorhus/type-fest](https://github.com/sindresorhus/type-fest)
-  - ⭐: 10,356
+  - ⭐: 10,357
   - 📖: A collection of essential TypeScript types
   - 💡: `npm-package` `types` `typescript` `typescript-definitions` `utilities`
 
@@ -1123,7 +1120,7 @@
   - 💡: `css` `optimization-tools` `postcss` `postcss-plugin` `purgecss` `rollup-plugin` `webpack-plugin`
 
 - [VSCodeVim/Vim](https://github.com/VSCodeVim/Vim)
-  - ⭐: 11,670
+  - ⭐: 11,671
   - 📖: :star: Vim for Visual Studio Code
   - 💡: `keybindings` `typescript` `vim` `vscode` `vscode-extension`
 
@@ -1868,7 +1865,7 @@
   - 💡: `dictionary` `front-end` `russian` `translation`
 
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
-  - ⭐: 244,543
+  - ⭐: 244,542
   - 📖: 😎 Awesome lists about all kinds of interesting topics
   - 💡: `awesome` `awesome-list` `lists` `resources` `unicorns`
 
