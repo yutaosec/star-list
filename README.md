@@ -265,7 +265,7 @@
   - 💡: `ant` `ant-design` `chart` `form` `formrender` `javascript` `json-schema` `list` `react` `table` `typescript` `webpack` `widget`
 
 - [tw93/Pake](https://github.com/tw93/Pake)
-  - ⭐: 12,882
+  - ⭐: 12,883
   - 📖: 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App
   - 💡: `chatgpt` `high-performance` `linux-desktop` `loop` `mac` `mac-desktop` `no-electron` `productivity` `rust` `tauri` `twitter` `webview` `windows-desktop` `wry` `youtube`
 
@@ -1279,7 +1279,7 @@
   - 💡: `skills`
 
 - [Shopify/draggable](https://github.com/Shopify/draggable)
-  - ⭐: 16,739
+  - ⭐: 16,740
   - 📖: The JavaScript Drag & Drop library your grandparents warned you about.
   - 💡: `drag-and-drop` `draggable` `es6` `javascript`
 
