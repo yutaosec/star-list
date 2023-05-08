@@ -325,7 +325,7 @@
   - 💡: `ant` `ant-design` `chart` `form` `formrender` `javascript` `json-schema` `list` `react` `table` `typescript` `webpack` `widget`
 
 - [tw93/Pake](https://github.com/tw93/Pake)
-  - ⭐: 14,565
+  - ⭐: 14,566
   - 📖: 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App
   - 💡: `chatgpt` `gpt-4` `high-performance` `linux-desktop` `loop` `mac` `mac-desktop` `no-electron` `open` `openai` `productivity` `rust` `tauri` `twitter` `webview` `windows-desktop` `wry` `youtube`
 
@@ -495,7 +495,7 @@
   - 📖: Just a little module for plugins.
 
 - [microsoft/tsdoc](https://github.com/microsoft/tsdoc)
-  - ⭐: 4,353
+  - ⭐: 4,354
   - 📖: A doc comment standard for TypeScript
   - 💡: `comments` `documentation` `jsdoc` `parser` `specification` `syntax` `typescript`
 
@@ -1412,7 +1412,7 @@
   - 📖: Finally, a "back to top" button that behaves like a real elevator. 
 
 - [electronicarts/CnC_Remastered_Collection](https://github.com/electronicarts/CnC_Remastered_Collection)
-  - ⭐: 16,517
+  - ⭐: 16,518
   - 📖: null
 
 - [jaredpalmer/formik](https://github.com/jaredpalmer/formik)
