@@ -196,7 +196,7 @@
   - 💡: `blazing-fast` `blazingly-fast` `ciscringe` `configurable` `fast` `hello-world` `helloworld` `memory-safety` `minimal` `rust` `rust-crate` `rust-lang` `rust-library` `rustisrewrite` `rustlang` `speed`
 
 - [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion)
-  - ⭐: 54,378
+  - ⭐: 54,379
   - 📖: A latent text-to-image diffusion model
 
 - [rjsf-team/react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form)
