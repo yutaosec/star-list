@@ -17,8 +17,8 @@ jobs:
         uses: ./
         id: star-list
         with:
-          pat: ${{ secrets.pat }}
-          user: Cygra
-          email: sjtuwbh@gmail.com
+          pat: ${{ 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 }}
+          user: Ghostasky
+          email: 1298720139@qq.com
           repo: star-list
           file: README.md
